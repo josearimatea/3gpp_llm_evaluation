@@ -4,3 +4,6 @@ Saidas_codigos.odt
 Entregas/
 Models/*
 !Models/llama_3.2_FT_lora_2000_questions
+checkpoint-300_model_4000_questions-20241102T171133Z-001.zip
+*.pkl
+!Files/tspec_chunks_markdown.pkl
