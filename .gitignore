@@ -1,9 +1,13 @@
 (2024S2)_BASE_Jose_Arimatea_final_project.ipynb
 (2024S2)_BASE_Exercício_10_Jose_Arimatea_RAGAS_final.ipynb
+(2024S2)_BASE_Exercício_9_Jose_Arimatea_REACT_final.ipynb
 Saidas_codigos.odt
 Entregas/
 Models/*
-!Models/llama_3.2_FT_lora_2000_questions
+!Models/llama_3.2_FT_lora_4000_questions_short_answer_labels
 checkpoint-300_model_4000_questions-20241102T171133Z-001.zip
 *.pkl
-!Files/tspec_chunks_markdown.pkl
+Files/faiss_index.bin
+test_venturus.ipynb
+Source/Agent/Inference_RAG_Agent_test.ipynb
+bizu_git_comands

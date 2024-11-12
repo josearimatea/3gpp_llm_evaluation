@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Which NGAP procedure is used for inter-system load balancing? [3GPP Release 17]",
+        "answer": "option 3: Uplink RAN Configuration Transfer",
+        "response": "option 4"
+    },
+    {
+        "question": "What is covered by enhanced application layer support for V2X services? [3GPP Release 17]",
+        "answer": "option 2: Advanced V2X services",
+        "response": "option 2"
+    },
+    {
+        "question": "What does the Load-Balancing steering mode do? [3GPP Release 17]",
+        "answer": "option 1: Splits the traffic of a data flow across 3GPP and non-3GPP accesses",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the main objective of intent driven management for service or network management? [3GPP Release 17]",
+        "answer": "option 4: To reduce the complexity of management for network resources",
+        "response": "option 4"
+    },
+    {
+        "question": "What does MINT stand for? [3GPP Release 17]",
+        "answer": "option 4: Minimization of Service Interruption",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of the Media Streaming AF Event Exposure work item? [3GPP Release 17]",
+        "answer": "option 1: To support data collection and event exposure by an AF to event consumers",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of load-balancing steering mode enhancements? [3GPP Release 17]",
+        "answer": "option 3: To enable the UE and UPF to freely select split percentages for each access type",
+        "response": "option 3"
+    },
+    {
+        "question": "What is a capability added in the V2X Application Enabler (VAE) layer? [3GPP Release 17]",
+        "answer": "option 2: V2X service discovery",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of the Edge Data Network (EDN) in enabling edge applications? [3GPP Release 17]",
+        "answer": "option 4: To host the Edge Application Server(s) and Edge Enabler Server (EES)",
+        "response": "option 4"
+    },
+    {
+        "question": "What are the three features specified in TS 23.304 for 5G ProSe Direct Communication over NR based PC5 reference point? [3GPP Release 17]",
+        "answer": "option 2: Broadcast mode, Groupcast mode, Unicast mode",
+        "response": "option 1"
+    },
+    {
+        "question": "How is service continuity supported for specific slice(s)? [3GPP Release 17]",
+        "answer": "option 1: Through Multi-Carrier Resource Sharing or Resource Repartitioning",
+        "response": "option 4"
+    },
+    {
+        "question": "How can UE power consumption due to false paging alarms be reduced? [3GPP Release 17]",
+        "answer": "option 5: By dividing UEs into multiple subgroups",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of Generic Bootstrapping Architecture (GBA) in 5GC? [3GPP Release 17]",
+        "answer": "option 1: To enable application functions to establish shared cryptographic material",
+        "response": null
+    },
+    {
+        "question": "What is the purpose of the Small Data Transmission (SDT) feature in NR? [3GPP Release 17]",
+        "answer": "option 4: To enable data transmission in the RRC_INACTIVE state for UEs with infrequent data traffic",
+        "response": "option 2"
+    },
+    {
+        "question": "What functionality does Signalling Based Activation provide? [3GPP Release 17]",
+        "answer": "option 4: Request for end user service performance information for one specific UE",
+        "response": "option 1"
+    },
+    {
+        "question": "What are the enhancements for idle/inactive-mode UE power saving in NR? [3GPP Release 17]",
+        "answer": "option 4: Paging enhancements to reduce UE reception power consumption",
+        "response": "option 2"
+    },
+    {
+        "question": "How does a Multi-USIM UE indicate to the network that it does not accept the paging and requests to return to CM-IDLE state? [3GPP Release 17]",
+        "answer": "option 4: By sending a Reject Paging response to the network.",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the purpose of the Slice-Maximum Bit Rate (S-MBR)? [3GPP Release 17]",
+        "answer": "option 1: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice",
+        "response": "option 1"
+    },
+    {
+        "question": "What aspects of the Disaster Roaming service are specified in TS 22.011 and TS 22.261? [3GPP Release 17]",
+        "answer": "option 5: Service requirements for the 5G system.",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of the Provision of potential TRS/CSI-RS occasion(s) to idle/inactive-mode UEs? [3GPP Release 17]",
+        "answer": "option 4: To reduce UE power consumption for synchronization",
+        "response": "option 4"
+    },
+    {
+        "question": "What does SL DRX stand for in the context of NR Sidelink? [3GPP Release 17]",
+        "answer": "option 4: Sidelink Discontinuous Reception",
+        "response": "option 4"
+    },
+    {
+        "question": "What is Non-Seamless WLAN offload (NSWO) in the context of 5GS? [3GPP Release 17]",
+        "answer": "option 2: A capability of a UE to route specific IP flows via WLAN access",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of the extended work item on 8K Television over 5G? [3GPP Release 17]",
+        "answer": "option 1: To define HEVC-based 8K TV operation point and media decoding capabilities",
+        "response": "option 2"
+    },
+    {
+        "question": "In supporting an MA PDU Session, what does Rel-17 enable in terms of 3GPP access over EPC? [3GPP Release 17]",
+        "answer": "option 2: Establishment of user-plane resources over EPC",
+        "response": "option 2"
+    },
+    {
+        "question": "In Rel-17, enhancements are made to several SEAL services. Which of the following is NOT an enhancement to SEAL services in Rel-17? [3GPP Release 17]",
+        "answer": "option 4: Support for enhanced Service Enabler Architecture Layer (SEAL)",
+        "response": "option 4"
+    },
+    {
+        "question": "Which procedures are impacted by MUSIM according to TS 23.502 and TS 23.401? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "option 2"
+    },
+    {
+        "question": "How does a Multi-USIM UE modify the timing of paging occasions in 5GS? [3GPP Release 17]",
+        "answer": "option 2: By triggering a new 5G-GUTI reallocation without any specific indication.",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the purpose of the Network Slice AS Group (NSAG)? [3GPP Release 17]",
+        "answer": "option 4: To perform slice aware cell reselection and slice specific RACH configuration",
+        "response": "option 2"
+    },
+    {
+        "question": "How are network nodes and NG-RAN configured with Disaster Condition? [3GPP Release 17]",
+        "answer": "option 1: Based on operator policy and the request by government agencies.",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the purpose of the Access Traffic Steering, Switching and Splitting (ATSS) feature in 5G networks? [3GPP Release 17]",
+        "answer": "option 1: To establish a Multi Access (MA) PDU Session for data communication between the UE and UPF",
+        "response": null
+    },
+    {
+        "question": "What is the purpose of the Network Data Analytics Function (NWDAF)? [3GPP Release 17]",
+        "answer": "option 3: To support network automation",
+        "response": "option 3"
+    },
+    {
+        "question": "What are the key functionalities of MDT enhancement? [3GPP Release 17]",
+        "answer": "option 4: To enhance network data analytics services",
+        "response": "option 3"
+    },
+    {
+        "question": "How can UE power saving be enabled by relaxing measurements for RLM/BFD? [3GPP Release 17]",
+        "answer": "option 3: By reducing UE power consumption during idle/inactive mode",
+        "response": "option 1"
+    },
+    {
+        "question": "What does the 5G LAN VN group service charging specify? [3GPP Release 17]",
+        "answer": "option 3: Charging support for 5G Virtual Network group management",
+        "response": "option 3"
+    },
+    {
+        "question": "Which documents specify the information to be pre-configured or stored in USIM for Disaster Roaming service? [3GPP Release 17]",
+        "answer": "option 1: TS 31.102 and TS 31.111",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of cyber-physical control applications in vertical domains? [3GPP Release 17]",
+        "answer": "option 1: To control physical processes over a network",
+        "response": "option 1"
+    },
+    {
+        "question": "Where are the security aspects on the UE authentication during the authentication procedure specified? [3GPP Release 17]",
+        "answer": "option 3: TS 33.501",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the purpose of the Work Item 'Enhancement of Private Network support for NG-RAN'? [3GPP Release 17]",
+        "answer": "option 5: To support IMS voice and emergency services for SNPN",
+        "response": "option 4"
+    },
+    {
+        "question": "Which 3GPP system entities are impacted by MUSIM? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "option 5"
+    },
+    {
+        "question": "What is specified in TS 24.588 related to V2X services? [3GPP Release 17]",
+        "answer": "option 2: User Equipment (UE) policies for V2X services",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the purpose of the RedCap UE type? [3GPP Release 17]",
+        "answer": "option 3: To reduce UE complexity and power consumption for IoT use cases",
+        "response": "option 1"
+    },
+    {
+        "question": "What are the objectives of the schemes introduced in the MUSIM work item for LTE/NR? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "option 5"
+    },
+    {
+        "question": "Which document specifies the MUSIM-specific rejection cause for EPS? [3GPP Release 17]",
+        "answer": "option 5: TS 29.274",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the purpose of file management in network management? [3GPP Release 17]",
+        "answer": "option 1: To store and transfer data between network functions and management functions",
+        "response": "option 1"
+    },
+    {
+        "question": "Under what conditions does the UE ignore PDCCH skipping? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the purpose of the ECM Work Item and the resulting specification in TS 28.538? [3GPP Release 17]",
+        "answer": "option 1: To provide management provisions and solutions for edge computing",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the purpose of Enhanced Closed loop SLS Assurance solution? [3GPP Release 17]",
+        "answer": "option 1: To continuously deliver the expected level of communication service quality",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of the UE-assistance indication in load-balancing steering mode? [3GPP Release 17]",
+        "answer": "option 1: To allow the UE to decide on split percentages based on its internal state",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of the Network notification objective introduced by MUSIM for LTE/NR? [3GPP Release 17]",
+        "answer": "option 4: To notify the network of a switch from network A for MUSIM purpose.",
+        "response": "option 3"
+    },
+    {
+        "question": "What does the Closed loop SLS Assurance solution in TS 28.535 and TS 28.536 provide? [3GPP Release 17]",
+        "answer": "option 1: Advanced monitoring solutions for providing communication service quality",
+        "response": "option 1"
+    },
+    {
+        "question": "How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17]",
+        "answer": "option 2: It uses information stored in the UE when it was detached.",
+        "response": "option 2"
+    },
+    {
+        "question": "When can the setting of the Privacy exception list be changed? [3GPP Release 17]",
+        "answer": "option 3: Anytime",
+        "response": "option 3"
+    },
+    {
+        "question": "What should the UE consider if it cannot detect any cell meeting the S criterion on a frequency for sidelink operation? [3GPP Release 17]",
+        "answer": "option 1: Out-of-coverage for sidelink operation on that frequency",
+        "response": "option 3"
+    },
+    {
+        "question": "When can target UEs be positioned for lawful interception services? [3GPP Release 17]",
+        "answer": "option 3: Under all circumstances required by local regulatory requirements",
+        "response": "option 3"
+    },
+    {
+        "question": "What are DCI formats with CRC scrambled by MCCH-RNTI or G-RNTI referred to as? [3GPP Release 17]",
+        "answer": "option 2: Broadcast DCI formats",
+        "response": "option 2"
+    },
+    {
+        "question": "What kind of access can enterprise UEs have to non-public networks? [3GPP Release 17]",
+        "answer": "option 2: Access to both a non-public network and a PLMN",
+        "response": "option 4"
+    },
+    {
+        "question": "What action is necessary to get access to services in Idle mode? [3GPP Release 17]",
+        "answer": "option 1: Camping on a cell",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of the User Configuration mechanism in the IMS Multimedia Telephony service? [3GPP Release 17]",
+        "answer": "option 2: To indicate which identities are active or inactive on a specific UE",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the maximum number of PDU Sessions? [3GPP Release 17]",
+        "answer": "option 4: 256",
+        "response": "option 4"
+    },
+    {
+        "question": "Which identity is used for indication of pre-emption in the downlink? [3GPP Release 17]",
+        "answer": "option 4: INT-RNTI",
+        "response": "option 4"
+    },
+    {
+        "question": "What does a UE determine when selecting a power for an S-SS/PSBCH block transmission occasion? [3GPP Release 17]",
+        "answer": "option 5: Value of dl-P0-PSBCH-r16 if provided, else dl-Alpha-PSBCH",
+        "response": "option 5"
+    },
+    {
+        "question": "What is the purpose of the MasterInformationBlockSidelink message? [3GPP Release 17]",
+        "answer": "option 5: To include the system information transmitted by a UE via SL-BCH",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the purpose of interworking between a 5G core network and an EPC? [3GPP Release 17]",
+        "answer": "option 4: To support mobility procedures with minimum impact to the user experience",
+        "response": "option 4"
+    },
+    {
+        "question": "How does a non-supporting UE select a core network operator to serve it in a shared network? [3GPP Release 17]",
+        "answer": "option 2: The shared network selects an operator for the UE.",
+        "response": "option 4"
+    },
+    {
+        "question": "For PSFCH transmission with HARQ-ACK information, how are the PRBs allocated? [3GPP Release 17]",
+        "answer": "option 3: In an ascending order of both the PRB index and the cyclic shift pair index",
+        "response": "option 3"
+    },
+    {
+        "question": "What determines the energy detection threshold in channel access procedures? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": null
+    },
+    {
+        "question": "What does VarConnEstFailReportList include? [3GPP Release 17]",
+        "answer": "option 4: Information about connection establishment failures",
+        "response": "option 3"
+    },
+    {
+        "question": "Which interface is used to transfer short messages between the SGSN and SMS-GMSC/SMS-IWMSC? [3GPP Release 17]",
+        "answer": "option 5: Gd-interface",
+        "response": "option 3"
+    },
+    {
+        "question": "What does the RRC protocol offer to upper layers? [3GPP Release 17]",
+        "answer": "option 1: Broadcast of common control information",
+        "response": null
+    },
+    {
+        "question": "What is SIPTO at the Local Network? [3GPP Release 17]",
+        "answer": "option 1: A collocated L-GW in the eNB",
+        "response": "option 1"
+    },
+    {
+        "question": "When is Paging with Wake Up Signal (WUS) used? [3GPP Release 17]",
+        "answer": "option 2: When the UE is in RRC_IDLE state",
+        "response": "option 2"
+    },
+    {
+        "question": "In unpaired spectrum operation, when are a DL BWP and an UL BWP linked together? [3GPP Release 17]",
+        "answer": "option 1: When the DL BWP index and the UL BWP index are the same",
+        "response": "option 3"
+    },
+    {
+        "question": "How is Extended Access Barring supported in shared networks? [3GPP Release 17]",
+        "answer": "option 4: The BSC/RNC/eNodeB provides independent support for each sharing operator.",
+        "response": "option 2"
+    },
+    {
+        "question": "What are the peak packet data rates supported by the Evolved Packet System on the radio access bearer? [3GPP Release 17]",
+        "answer": "option 1: 100 Mbps downlink and 50 Mbps uplink",
+        "response": "option 1"
+    },
+    {
+        "question": "What is a Personal IoT Network (PIN)? [3GPP Release 17]",
+        "answer": "option 3: A network that consists of PIN Elements and communicates using PIN Direct Connection.",
+        "response": "option 3"
+    },
+    {
+        "question": "What does the 5G system need to provide for mobile base station relays using 5G connectivity provided by a different MNO? [3GPP Release 17]",
+        "answer": "option 3: Ability for MNO-A and MNO-B to share relay resources for UEs connected to the 5G network",
+        "response": "option 3"
+    },
+    {
+        "question": "When can a UE apply Type 1 channel access procedures for a UL transmission(s)? [3GPP Release 17]",
+        "answer": "option 3: After receiving the corresponding capability",
+        "response": null
+    },
+    {
+        "question": "What does the timing advance command for a TAG indicate? [3GPP Release 17]",
+        "answer": "option 3: Change of uplink timing relative to the current uplink timing",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the high quality criterion for reporting a PLMN to the NAS in the E-UTRA and NB-IoT case? [3GPP Release 17]",
+        "answer": "option 1: Measured RSRP value greater than or equal to -110 dBm",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the RRC buffer size for a UE? [3GPP Release 17]",
+        "answer": "option 2: 45 KB",
+        "response": "option 2"
+    },
+    {
+        "question": "What is one of the requirements for interworking between fixed access and Evolved Packet Core? [3GPP Release 17]",
+        "answer": "option 3: Routing different PDN connections through different accesses",
+        "response": "option 3"
+    },
+    {
+        "question": "How is the modulation order (Qm) and target code rate (R) determined for PSSCH transmission? [3GPP Release 17]",
+        "answer": "option 2: Based on the MCS table",
+        "response": "option 2"
+    },
+    {
+        "question": "Which parameter in SL-TxProfileList-r17 indicates compatibility with DRX? [3GPP Release 17]",
+        "answer": "option 3: drx-Compatible",
+        "response": "option 3"
+    },
+    {
+        "question": "In the context of pathloss models, what is O2I? [3GPP Release 17]",
+        "answer": "option 4: Outdoor to Indoor",
+        "response": "option 4"
+    },
+    {
+        "question": "What is true about services not mentioned within the interaction clause? [3GPP Release 17]",
+        "answer": "option 1: They have no impact on other supplementary services",
+        "response": "option 3"
+    },
+    {
+        "question": "What does the 5G system need to support for a UE accessing multiple network slices? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "option 1"
+    },
+    {
+        "question": "What does the 5G system prevent in terms of privacy for UEs using 5G LAN-type service? [3GPP Release 17]",
+        "answer": "option 1: Sharing of UE's identifying information",
+        "response": "option 1"
+    },
+    {
+        "question": "What is associated with a time and/or date setting in the IMS Multimedia Telephony service? [3GPP Release 17]",
+        "answer": "option 3: Activation, deactivation, and invocation of services",
+        "response": "option 3"
+    },
+    {
+        "question": "Which entities can consume Management Data Analytics Service (MDAS)? [3GPP Release 17]",
+        "answer": "option 1: MnFs, NFs, SON functions, SLS assurance functions, human operators, and AFs",
+        "response": "option 1"
+    },
+    {
+        "question": "What type of frames does the Ethernet transport service need to support? [3GPP Release 17]",
+        "answer": "option 3: Ethernet frames",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the typical connection density in factory automation applications? [3GPP Release 17]",
+        "answer": "option 3: 10 connections per km2",
+        "response": "option 3"
+    },
+    {
+        "question": "What is the purpose of the Enhanced TNL Address Discovery with the X2 GW? [3GPP Release 17]",
+        "answer": "option 4: To enhance the TNL address discovery procedure",
+        "response": "option 4"
+    },
+    {
+        "question": "What is the purpose of providing secure means for communication scheduling information to an NPN in a 5G network? [3GPP Release 17]",
+        "answer": "option 1: To perform network energy saving and network resource optimization",
+        "response": "option 2"
+    },
+    {
+        "question": "What are the ThreshServingOffloadWLAN parameters used for? [3GPP Release 17]",
+        "answer": "option 5: To define the RSRP threshold for traffic steering from E-UTRAN to WLAN.",
+        "response": "option 2"
+    },
+    {
+        "question": "What is the scrambling sequence generator initialized with for a PDCCH with the CRC scrambled by G-RNTI in a common search space? [3GPP Release 17]",
+        "answer": "option 1: dataScramblingIdentityPDSCH",
+        "response": "option 5"
+    },
+    {
+        "question": "Which RRC state is the UE in when no RRC connection is established? [3GPP Release 17]",
+        "answer": "option 5: RRC_IDLE",
+        "response": "option 5"
+    },
+    {
+        "question": "How are the antenna elements placed on each antenna panel? [3GPP Release 17]",
+        "answer": "option 3: In both the vertical and horizontal directions",
+        "response": "option 3"
+    },
+    {
+        "question": "What information may be provided to an emergency services LCS Client without any request? [3GPP Release 17]",
+        "answer": "option 3: Both 1 and 2",
+        "response": "option 1"
+    },
+    {
+        "question": "What is the purpose of cross-network slice coordination? [3GPP Release 17]",
+        "answer": "option 1: To coordinate network slices in multiple 5G networks",
+        "response": "option 1"
+    },
+    {
+        "question": "What does a RedCap UE expect if it monitors PDCCH according to Type1-PDCCH CSS set and does not monitor PDCCH according to Type2-PDCCH CSS set? [3GPP Release 17]",
+        "answer": "option 2: The initial DL BWP to exclude SS/PBCH blocks and the CORESET with index 0",
+        "response": "option 3"
+    }
+]
