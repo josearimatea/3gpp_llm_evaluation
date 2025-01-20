@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Which NGAP procedure is used for inter-system load balancing? [3GPP Release 17]",
+        "answer": "option 3: Uplink RAN Configuration Transfer",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which NGAP procedure is used for inter-system load balancing? [3GPP Release 17]\nOptions:\noption 1: eNB Configuration Transfer\noption 2: Downlink RAN Configuration Transfer\noption 3: Uplink RAN Configuration Transfer\noption 4: MME Configuration Transfer\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: eNB Configuration Transfer\n"
+    },
+    {
+        "question": "What is covered by enhanced application layer support for V2X services? [3GPP Release 17]",
+        "answer": "option 2: Advanced V2X services",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is covered by enhanced application layer support for V2X services? [3GPP Release 17]\nOptions:\noption 1: PC5 radio resource control\noption 2: Advanced V2X services\noption 3: SDAP layer enhancements\noption 4: V2X communication over NR PC5 reference point\noption 5: Tele-Operated Driving\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Advanced V2X services\n"
+    },
+    {
+        "question": "What does the Load-Balancing steering mode do? [3GPP Release 17]",
+        "answer": "option 1: Splits the traffic of a data flow across 3GPP and non-3GPP accesses",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the Load-Balancing steering mode do? [3GPP Release 17]\nOptions:\noption 1: Splits the traffic of a data flow across 3GPP and non-3GPP accesses\noption 2: Balances the load on the core network nodes\noption 3: Restricts the UE to a single access type\noption 4: Improves network performance measurements\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Restricts the UE to a single access type\n"
+    },
+    {
+        "question": "What is the main objective of intent driven management for service or network management? [3GPP Release 17]",
+        "answer": "option 4: To reduce the complexity of management for network resources",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the main objective of intent driven management for service or network management? [3GPP Release 17]\nOptions:\noption 1: To support monitoring of the progress of file download in a downloading job\noption 2: To provide detailed knowledge of the underlying network resources\noption 3: To optimize the provisioning of management services for UEs in a specified area\noption 4: To reduce the complexity of management for network resources\noption 5: To enhance the support for the NSA in the service-based management architecture\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To reduce the complexity of management for network resources\n"
+    },
+    {
+        "question": "What does MINT stand for? [3GPP Release 17]",
+        "answer": "option 4: Minimization of Service Interruption",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does MINT stand for? [3GPP Release 17]\nOptions:\noption 1: Maximum Internet Network Transmission\noption 2: Minimization of Interruption Network Technology\noption 3: Maximization of Internet Network Traffic\noption 4: Minimization of Service Interruption\noption 5: Maximum Internet Network Technology\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Minimization of Interruption Network Technology\n"
+    },
+    {
+        "question": "What is the purpose of the Media Streaming AF Event Exposure work item? [3GPP Release 17]",
+        "answer": "option 1: To support data collection and event exposure by an AF to event consumers",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Media Streaming AF Event Exposure work item? [3GPP Release 17]\nOptions:\noption 1: To support data collection and event exposure by an AF to event consumers\noption 2: To extend the 5G Media Streaming functionality for UE data collection\noption 3: To define generic UE data collection and reporting procedures\noption 4: To provide interoperability for 5G Media Streaming services\noption 5: To specify the architecture for generic UE data collection and reporting\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To support data collection and event exposure by an AF to event consumers\n"
+    },
+    {
+        "question": "What is the purpose of load-balancing steering mode enhancements? [3GPP Release 17]",
+        "answer": "option 3: To enable the UE and UPF to freely select split percentages for each access type",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of load-balancing steering mode enhancements? [3GPP Release 17]\nOptions:\noption 1: To provide better network performance measurements\noption 2: To prioritize non-3GPP access over 3GPP access in load balancing\noption 3: To enable the UE and UPF to freely select split percentages for each access type\noption 4: To enhance the functionality of the AMF\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To prioritize non-3GPP access over 3GPP access in load balancing\n"
+    },
+    {
+        "question": "What is a capability added in the V2X Application Enabler (VAE) layer? [3GPP Release 17]",
+        "answer": "option 2: V2X service discovery",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is a capability added in the V2X Application Enabler (VAE) layer? [3GPP Release 17]\nOptions:\noption 1: V2X UE group management\noption 2: V2X service discovery\noption 3: Session-oriented services\noption 4: Network monitoring by the V2X UE\noption 5: Support for PC5 provisioning\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Session-oriented services\n"
+    },
+    {
+        "question": "What is the purpose of the Edge Data Network (EDN) in enabling edge applications? [3GPP Release 17]",
+        "answer": "option 4: To host the Edge Application Server(s) and Edge Enabler Server (EES)",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Edge Data Network (EDN) in enabling edge applications? [3GPP Release 17]\nOptions:\noption 1: To enable discovery of Edge Application Servers\noption 2: To provide configurations to the Edge Enabler Client (EEC)\noption 3: To support service provisioning for UE\noption 4: To host the Edge Application Server(s) and Edge Enabler Server (EES)\noption 5: To expose EES capability as APIs to EAS\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To host the Edge Application Server(s) and Edge Enabler Server (EES)\n"
+    },
+    {
+        "question": "What are the three features specified in TS 23.304 for 5G ProSe Direct Communication over NR based PC5 reference point? [3GPP Release 17]",
+        "answer": "option 2: Broadcast mode, Groupcast mode, Unicast mode",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the three features specified in TS 23.304 for 5G ProSe Direct Communication over NR based PC5 reference point? [3GPP Release 17]\nOptions:\noption 1: Broadcast mode, Multicast mode, Unicast mode\noption 2: Broadcast mode, Groupcast mode, Unicast mode\noption 3: Broadcast mode, Groupcast mode, Multicast mode\noption 4: Unicast mode, Groupcast mode, Multicast mode\noption 5: Unicast mode, Multicast mode, Broadcast mode\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Broadcast mode, Groupcast mode, Unicast mode\n"
+    },
+    {
+        "question": "How is service continuity supported for specific slice(s)? [3GPP Release 17]",
+        "answer": "option 1: Through Multi-Carrier Resource Sharing or Resource Repartitioning",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How is service continuity supported for specific slice(s)? [3GPP Release 17]\nOptions:\noption 1: Through Multi-Carrier Resource Sharing or Resource Repartitioning\noption 2: By monitoring and controlling the number of registered UEs per network slice\noption 3: By enforcing the Slice MBR and the usage of Target NSSAI\noption 4: By providing Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: By supporting slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Through Multi-Carrier Resource Sharing or Resource Repartitioning\n"
+    },
+    {
+        "question": "How can UE power consumption due to false paging alarms be reduced? [3GPP Release 17]",
+        "answer": "option 5: By dividing UEs into multiple subgroups",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How can UE power consumption due to false paging alarms be reduced? [3GPP Release 17]\nOptions:\noption 1: By switching to a target SSSG\noption 2: By reducing PDCCH monitoring\noption 3: By relaxing UE measurements for RLM and/or BFD\noption 4: By providing TRS/CSI-RS occasions to idle/inactive-mode UEs\noption 5: By dividing UEs into multiple subgroups\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: By providing TRS/CSI-RS occasions to idle/inactive-mode UEs\n"
+    },
+    {
+        "question": "What is the purpose of Generic Bootstrapping Architecture (GBA) in 5GC? [3GPP Release 17]",
+        "answer": "option 1: To enable application functions to establish shared cryptographic material",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Generic Bootstrapping Architecture (GBA) in 5GC? [3GPP Release 17]\nOptions:\noption 1: To enable application functions to establish shared cryptographic material\noption 2: To authenticate and authorize user equipment\noption 3: To provide secure communication between UE and the network\noption 4: To protect very low throughput MTC devices\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To enable application functions to establish shared cryptographic material\n"
+    },
+    {
+        "question": "What is the purpose of the Small Data Transmission (SDT) feature in NR? [3GPP Release 17]",
+        "answer": "option 4: To enable data transmission in the RRC_INACTIVE state for UEs with infrequent data traffic",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Small Data Transmission (SDT) feature in NR? [3GPP Release 17]\nOptions:\noption 1: To enable data transmission in the INACTIVE state for UEs with periodic data packets\noption 2: To enable data transmission in the RRC_CONNECTED state for UEs with small data packets\noption 3: To enable data transmission in the RRC_INACTIVE state for UEs with frequent data traffic\noption 4: To enable data transmission in the RRC_INACTIVE state for UEs with infrequent data traffic\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To enable data transmission in the RRC_CONNECTED state for UEs with small data packets\n"
+    },
+    {
+        "question": "What functionality does Signalling Based Activation provide? [3GPP Release 17]",
+        "answer": "option 4: Request for end user service performance information for one specific UE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What functionality does Signalling Based Activation provide? [3GPP Release 17]\nOptions:\noption 1: Activation of management services for UEs in a specified area\noption 2: Deactivation of management services for UEs in a specified area\noption 3: Temporary stop and restart of management services during RAN overload\noption 4: Request for end user service performance information for one specific UE\noption 5: Handling management services during handover\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Activation of management services for UEs in a specified area\n"
+    },
+    {
+        "question": "What are the enhancements for idle/inactive-mode UE power saving in NR? [3GPP Release 17]",
+        "answer": "option 4: Paging enhancements to reduce UE reception power consumption",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the enhancements for idle/inactive-mode UE power saving in NR? [3GPP Release 17]\nOptions:\noption 1: Enhanced search space set group (SSSG) switching\noption 2: Provision of potential TRS/CSI-RS occasion(s) to idle/inactive-mode UEs\noption 3: Relaxation of UE measurements for RLM and/or BFD\noption 4: Paging enhancements to reduce UE reception power consumption\noption 5: PDCCH skipping mechanism\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Provision of potential TRS/CSI-RS occasion(s) to idle/inactive-mode UEs\n"
+    },
+    {
+        "question": "How does a Multi-USIM UE indicate to the network that it does not accept the paging and requests to return to CM-IDLE state? [3GPP Release 17]",
+        "answer": "option 4: By sending a Reject Paging response to the network.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How does a Multi-USIM UE indicate to the network that it does not accept the paging and requests to return to CM-IDLE state? [3GPP Release 17]\nOptions:\noption 1: By sending a specific AT command.\noption 2: By sending a Paging Restriction request to the network.\noption 3: By sending a UEAssistanceInformation message.\noption 4: By sending a Reject Paging response to the network.\noption 5: By sending a Service Request message.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: By sending a Paging Restriction request to the network.\n"
+    },
+    {
+        "question": "What is the purpose of the Slice-Maximum Bit Rate (S-MBR)? [3GPP Release 17]",
+        "answer": "option 1: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Slice-Maximum Bit Rate (S-MBR)? [3GPP Release 17]\nOptions:\noption 1: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice\noption 2: To allocate resources to a slice in case of slice resources shortage\noption 3: To monitor the data rate per Network Slice\noption 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: To control the number of registered UEs per network slice\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice\n"
+    },
+    {
+        "question": "What aspects of the Disaster Roaming service are specified in TS 22.011 and TS 22.261? [3GPP Release 17]",
+        "answer": "option 5: Service requirements for the 5G system.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What aspects of the Disaster Roaming service are specified in TS 22.011 and TS 22.261? [3GPP Release 17]\nOptions:\noption 1: Disaster Condition configuration procedures.\noption 2: Disaster Roaming service registration procedures.\noption 3: System information extensions for MINT.\noption 4: Network selection procedures.\noption 5: Service requirements for the 5G system.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Disaster Roaming service registration procedures.\n"
+    },
+    {
+        "question": "What is the purpose of the Provision of potential TRS/CSI-RS occasion(s) to idle/inactive-mode UEs? [3GPP Release 17]",
+        "answer": "option 4: To reduce UE power consumption for synchronization",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Provision of potential TRS/CSI-RS occasion(s) to idle/inactive-mode UEs? [3GPP Release 17]\nOptions:\noption 1: To reduce UE power consumption during data scheduling\noption 2: To reduce UE power consumption for PDCCH monitoring\noption 3: To reduce UE power consumption for RLM and/or BFD measurements\noption 4: To reduce UE power consumption for synchronization\noption 5: To reduce UE power consumption during subframe transmission\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To reduce UE power consumption during data scheduling\n"
+    },
+    {
+        "question": "What does SL DRX stand for in the context of NR Sidelink? [3GPP Release 17]",
+        "answer": "option 4: Sidelink Discontinuous Reception",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does SL DRX stand for in the context of NR Sidelink? [3GPP Release 17]\nOptions:\noption 1: Sidelink Directional Resource Control\noption 2: Sidelink Data Retransmission and Retransmission Timer\noption 3: Sidelink Dynamic Radio Connection\noption 4: Sidelink Discontinuous Reception\noption 5: Sidelink Distributed Resource Allocation\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Sidelink Discontinuous Reception\n"
+    },
+    {
+        "question": "What is Non-Seamless WLAN offload (NSWO) in the context of 5GS? [3GPP Release 17]",
+        "answer": "option 2: A capability of a UE to route specific IP flows via WLAN access",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is Non-Seamless WLAN offload (NSWO) in the context of 5GS? [3GPP Release 17]\nOptions:\noption 1: A network function that supports authentication for NSWO\noption 2: A capability of a UE to route specific IP flows via WLAN access\noption 3: A service-based interface for NSWO authentication\noption 4: A configuration for NSWO roaming\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: A capability of a UE to route specific IP flows via WLAN access\n"
+    },
+    {
+        "question": "What is the purpose of the extended work item on 8K Television over 5G? [3GPP Release 17]",
+        "answer": "option 1: To define HEVC-based 8K TV operation point and media decoding capabilities",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the extended work item on 8K Television over 5G? [3GPP Release 17]\nOptions:\noption 1: To define HEVC-based 8K TV operation point and media decoding capabilities\noption 2: To improve the distribution of 8K TV content with 5G\noption 3: To support higher decoding capabilities in TV and mobile device\noption 4: To specify ISO BMFF encapsulation and DASH signalling for 8K TV\noption 5: To conduct trials and produce content in 8K\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To define HEVC-based 8K TV operation point and media decoding capabilities\n"
+    },
+    {
+        "question": "In supporting an MA PDU Session, what does Rel-17 enable in terms of 3GPP access over EPC? [3GPP Release 17]",
+        "answer": "option 2: Establishment of user-plane resources over EPC",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In supporting an MA PDU Session, what does Rel-17 enable in terms of 3GPP access over EPC? [3GPP Release 17]\nOptions:\noption 1: Direct connection of 3GPP access to 5GC\noption 2: Establishment of user-plane resources over EPC\noption 3: Use of NG-RAN access for all user-plane traffic\noption 4: Exclusive use of a non-3GPP access for user-plane traffic\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Establishment of user-plane resources over EPC\n"
+    },
+    {
+        "question": "In Rel-17, enhancements are made to several SEAL services. Which of the following is NOT an enhancement to SEAL services in Rel-17? [3GPP Release 17]",
+        "answer": "option 4: Support for enhanced Service Enabler Architecture Layer (SEAL)",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In Rel-17, enhancements are made to several SEAL services. Which of the following is NOT an enhancement to SEAL services in Rel-17? [3GPP Release 17]\nOptions:\noption 1: Support for external group Id and group fetch procedure\noption 2: Support for management of 5G VN groups\noption 3: Support for temporary groups in a VAL system\noption 4: Support for enhanced Service Enabler Architecture Layer (SEAL)\noption 5: Support for location criteria in group creation\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Support for location criteria in group creation\n"
+    },
+    {
+        "question": "Which procedures are impacted by MUSIM according to TS 23.502 and TS 23.401? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which procedures are impacted by MUSIM according to TS 23.502 and TS 23.401? [3GPP Release 17]\nOptions:\noption 1: Service Request\noption 2: Registration / Attach / Tracking Area Update\noption 3: N2 Paging / S1 Paging\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "How does a Multi-USIM UE modify the timing of paging occasions in 5GS? [3GPP Release 17]",
+        "answer": "option 2: By triggering a new 5G-GUTI reallocation without any specific indication.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How does a Multi-USIM UE modify the timing of paging occasions in 5GS? [3GPP Release 17]\nOptions:\noption 1: By obtaining a new 5G-GUTI through a specific indication.\noption 2: By triggering a new 5G-GUTI reallocation without any specific indication.\noption 3: By requesting a 5G-GUTI reallocation from the network.\noption 4: By providing an IMSI offset value in the Attach Request message.\noption 5: By performing a MRU and obtaining a new 5G-GUTI.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: By providing an IMSI offset value in the Attach Request message.\n"
+    },
+    {
+        "question": "What is the purpose of the Network Slice AS Group (NSAG)? [3GPP Release 17]",
+        "answer": "option 4: To perform slice aware cell reselection and slice specific RACH configuration",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Network Slice AS Group (NSAG)? [3GPP Release 17]\nOptions:\noption 1: To monitor and control the number of registered UEs per network slice\noption 2: To allocate resources to a slice in case of slice resources shortage\noption 3: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 4: To perform slice aware cell reselection and slice specific RACH configuration\noption 5: To support slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To allocate resources to a slice in case of slice resources shortage\n"
+    },
+    {
+        "question": "How are network nodes and NG-RAN configured with Disaster Condition? [3GPP Release 17]",
+        "answer": "option 1: Based on operator policy and the request by government agencies.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How are network nodes and NG-RAN configured with Disaster Condition? [3GPP Release 17]\nOptions:\noption 1: Based on operator policy and the request by government agencies.\noption 2: Based on operator policy only.\noption 3: Based on the request by government agencies only.\noption 4: Based on international standards.\noption 5: Based on customer requests.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Based on operator policy and the request by government agencies.\n"
+    },
+    {
+        "question": "What is the purpose of the Access Traffic Steering, Switching and Splitting (ATSS) feature in 5G networks? [3GPP Release 17]",
+        "answer": "option 1: To establish a Multi Access (MA) PDU Session for data communication between the UE and UPF",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Access Traffic Steering, Switching and Splitting (ATSS) feature in 5G networks? [3GPP Release 17]\nOptions:\noption 1: To establish a Multi Access (MA) PDU Session for data communication between the UE and UPF\noption 2: To improve network performance measurements in Rel-16\noption 3: To support 3GPP access over EPC only\noption 4: To prioritize 3GPP access over non-3GPP access in load balancing\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To establish a Multi Access (MA) PDU Session for data communication between the UE and UPF\n"
+    },
+    {
+        "question": "What is the purpose of the Network Data Analytics Function (NWDAF)? [3GPP Release 17]",
+        "answer": "option 3: To support network automation",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Network Data Analytics Function (NWDAF)? [3GPP Release 17]\nOptions:\noption 1: To measure PRB usage for MIMO\noption 2: To optimize inter-system load balancing\noption 3: To support network automation\noption 4: To calculate the energy efficiency of base stations\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To support network automation\n"
+    },
+    {
+        "question": "What are the key functionalities of MDT enhancement? [3GPP Release 17]",
+        "answer": "option 4: To enhance network data analytics services",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the key functionalities of MDT enhancement? [3GPP Release 17]\nOptions:\noption 1: To optimize inter-system load balancing\noption 2: To enhance energy efficiency\noption 3: To improve mobility optimization\noption 4: To enhance network data analytics services\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To optimize inter-system load balancing\n"
+    },
+    {
+        "question": "How can UE power saving be enabled by relaxing measurements for RLM/BFD? [3GPP Release 17]",
+        "answer": "option 3: By reducing UE power consumption during idle/inactive mode",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How can UE power saving be enabled by relaxing measurements for RLM/BFD? [3GPP Release 17]\nOptions:\noption 1: By reducing PDCCH monitoring in connected mode\noption 2: By reducing UE power consumption during synchronization\noption 3: By reducing UE power consumption during idle/inactive mode\noption 4: By reducing UE power consumption during RAR/MsgB window monitoring\noption 5: By reducing UE power consumption during data scheduling\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: By reducing PDCCH monitoring in connected mode\n"
+    },
+    {
+        "question": "What does the 5G LAN VN group service charging specify? [3GPP Release 17]",
+        "answer": "option 3: Charging support for 5G Virtual Network group management",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the 5G LAN VN group service charging specify? [3GPP Release 17]\nOptions:\noption 1: Charging architecture and principles for LAN-type services\noption 2: Charging management for 5G data connectivity domain\noption 3: Charging support for 5G Virtual Network group management\noption 4: Charging of management services for UEs in a specified area\noption 5: Charging data record parameter description for LAN VN group service\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Charging support for 5G Virtual Network group management\n"
+    },
+    {
+        "question": "Which documents specify the information to be pre-configured or stored in USIM for Disaster Roaming service? [3GPP Release 17]",
+        "answer": "option 1: TS 31.102 and TS 31.111",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which documents specify the information to be pre-configured or stored in USIM for Disaster Roaming service? [3GPP Release 17]\nOptions:\noption 1: TS 31.102 and TS 31.111\noption 2: TS 22.261 and TS 23.502\noption 3: TS 38.304 and TS 38.331\noption 4: TS 33.501 and TS 29.509\noption 5: TS 29.503 and TS 31.102\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: TS 29.503 and TS 31.102\n"
+    },
+    {
+        "question": "What is the purpose of cyber-physical control applications in vertical domains? [3GPP Release 17]",
+        "answer": "option 1: To control physical processes over a network",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of cyber-physical control applications in vertical domains? [3GPP Release 17]\nOptions:\noption 1: To control physical processes over a network\noption 2: To facilitate communication for V2X applications\noption 3: To provide network and application enablement for verticals\noption 4: To enhance the location and positioning capabilities in the 5G system\noption 5: To enable third party Application Servers/Functions to access 3GPP network services\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To control physical processes over a network\n"
+    },
+    {
+        "question": "Where are the security aspects on the UE authentication during the authentication procedure specified? [3GPP Release 17]",
+        "answer": "option 3: TS 33.501",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Where are the security aspects on the UE authentication during the authentication procedure specified? [3GPP Release 17]\nOptions:\noption 1: TS 29.509\noption 2: TS 31.111\noption 3: TS 33.501\noption 4: TS 22.011\noption 5: TS 23.122\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: TS 23.122\n"
+    },
+    {
+        "question": "What is the purpose of the Work Item 'Enhancement of Private Network support for NG-RAN'? [3GPP Release 17]",
+        "answer": "option 5: To support IMS voice and emergency services for SNPN",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Work Item 'Enhancement of Private Network support for NG-RAN'? [3GPP Release 17]\nOptions:\noption 1: To support non-public and private networks\noption 2: To enhance the location and positioning capabilities in the 5G system\noption 3: To improve the efficiency of Northbound Interfaces and APIs\noption 4: To improve the support for non-public networks\noption 5: To support IMS voice and emergency services for SNPN\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To improve the support for non-public networks\n"
+    },
+    {
+        "question": "Which 3GPP system entities are impacted by MUSIM? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which 3GPP system entities are impacted by MUSIM? [3GPP Release 17]\nOptions:\noption 1: UE\noption 2: MME / AMF\noption 3: RAN / NG-RAN\noption 4: SGW-C / SMF\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "What is specified in TS 24.588 related to V2X services? [3GPP Release 17]",
+        "answer": "option 2: User Equipment (UE) policies for V2X services",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is specified in TS 24.588 related to V2X services? [3GPP Release 17]\nOptions:\noption 1: Architecture enhancements for V2X services\noption 2: User Equipment (UE) policies for V2X services\noption 3: Vehicle-to-Everything (V2X) services in 5G System (5GS); Stage 3\noption 4: Characteristics of the Universal Subscriber Identity Module (USIM) application\noption 5: VAS layer supported V2X communication using local MBMS\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Vehicle-to-Everything (V2X) services in 5G System (5GS); Stage 3\n"
+    },
+    {
+        "question": "What is the purpose of the RedCap UE type? [3GPP Release 17]",
+        "answer": "option 3: To reduce UE complexity and power consumption for IoT use cases",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the RedCap UE type? [3GPP Release 17]\nOptions:\noption 1: To enable carrier aggregation and dual connectivity in NR\noption 2: To support high data rate requirements for IoT devices\noption 3: To reduce UE complexity and power consumption for IoT use cases\noption 4: To enable messaging communication in the 5G System\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To enable carrier aggregation and dual connectivity in NR\n"
+    },
+    {
+        "question": "What are the objectives of the schemes introduced in the MUSIM work item for LTE/NR? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the objectives of the schemes introduced in the MUSIM work item for LTE/NR? [3GPP Release 17]\nOptions:\noption 1: To support multiple frequencies of USIM cards.\noption 2: To address the paging occasion collision issue for MUSIM UE.\noption 3: To notify the network of a switch from one network to another for MUSIM purpose.\noption 4: To indicate to the MUSIM UE whether an incoming paging is for voice service.\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "Which document specifies the MUSIM-specific rejection cause for EPS? [3GPP Release 17]",
+        "answer": "option 5: TS 29.274",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which document specifies the MUSIM-specific rejection cause for EPS? [3GPP Release 17]\nOptions:\noption 1: TS 23.501\noption 2: TS 27.007\noption 3: TS 29.518\noption 4: TS 24.501\noption 5: TS 29.274\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: TS 29.274\n"
+    },
+    {
+        "question": "What is the purpose of file management in network management? [3GPP Release 17]",
+        "answer": "option 1: To store and transfer data between network functions and management functions",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of file management in network management? [3GPP Release 17]\nOptions:\noption 1: To store and transfer data between network functions and management functions\noption 2: To provide basic connectivity information to a NE after it is powered up\noption 3: To support management of MDT measurement collection in UMTS, LTE, and 5G networks\noption 4: To control and discover management data production and collection\noption 5: To enable charging for roaming local breakout scenario\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To store and transfer data between network functions and management functions\n"
+    },
+    {
+        "question": "Under what conditions does the UE ignore PDCCH skipping? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Under what conditions does the UE ignore PDCCH skipping? [3GPP Release 17]\nOptions:\noption 1: When SR is sent and is pending on all serving cells of the Cell Group\noption 2: During monitoring of the RAR/MsgB window on SpCell\noption 3: While contention resolution timer is running on SpCell\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What is the purpose of the ECM Work Item and the resulting specification in TS 28.538? [3GPP Release 17]",
+        "answer": "option 1: To provide management provisions and solutions for edge computing",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the ECM Work Item and the resulting specification in TS 28.538? [3GPP Release 17]\nOptions:\noption 1: To provide management provisions and solutions for edge computing\noption 2: To support dynamic availability of Edge and EAS\noption 3: To define the architecture for enabling Edge Applications\noption 4: To specify the security aspects of application layer support of the Edge Applications\noption 5: To support service provisioning for UE\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To define the architecture for enabling Edge Applications\n"
+    },
+    {
+        "question": "What is the purpose of Enhanced Closed loop SLS Assurance solution? [3GPP Release 17]",
+        "answer": "option 1: To continuously deliver the expected level of communication service quality",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Enhanced Closed loop SLS Assurance solution? [3GPP Release 17]\nOptions:\noption 1: To continuously deliver the expected level of communication service quality\noption 2: To optimize the services provided over an NG-RAN and 5GC network\noption 3: To improve the QoE measurement collection in UMTS, LTE, and 5G networks\noption 4: To enable plug and connect support for management of network functions\noption 5: To enhance support for 5G network sharing scenarios\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To optimize the services provided over an NG-RAN and 5GC network\n"
+    },
+    {
+        "question": "What is the purpose of the UE-assistance indication in load-balancing steering mode? [3GPP Release 17]",
+        "answer": "option 1: To allow the UE to decide on split percentages based on its internal state",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the UE-assistance indication in load-balancing steering mode? [3GPP Release 17]\nOptions:\noption 1: To allow the UE to decide on split percentages based on its internal state\noption 2: To dictate fixed split percentages for load balancing\noption 3: To optimize network performance measurements\noption 4: To provide guidelines to the UPF on load balancing\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To provide guidelines to the UPF on load balancing\n"
+    },
+    {
+        "question": "What is the purpose of the Network notification objective introduced by MUSIM for LTE/NR? [3GPP Release 17]",
+        "answer": "option 4: To notify the network of a switch from network A for MUSIM purpose.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Network notification objective introduced by MUSIM for LTE/NR? [3GPP Release 17]\nOptions:\noption 1: To address the paging occasion collision issue.\noption 2: To notify the network of a switch from one network to another for MUSIM purpose.\noption 3: To support indicating to the MUSIM UE whether an incoming paging is for voice service.\noption 4: To notify the network of a switch from network A for MUSIM purpose.\noption 5: To address the issue of network congestion during paging.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To notify the network of a switch from one network to another for MUSIM purpose.\n"
+    },
+    {
+        "question": "What does the Closed loop SLS Assurance solution in TS 28.535 and TS 28.536 provide? [3GPP Release 17]",
+        "answer": "option 1: Advanced monitoring solutions for providing communication service quality",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the Closed loop SLS Assurance solution in TS 28.535 and TS 28.536 provide? [3GPP Release 17]\nOptions:\noption 1: Advanced monitoring solutions for providing communication service quality\noption 2: Predictive analytics for optimizing network performance\noption 3: Provisioning capabilities for adjusting and optimizing services\noption 4: Configuring assurance goal based on network characteristics\noption 5: Collecting assurance goal status based on location\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Provisioning capabilities for adjusting and optimizing services\n"
+    },
+    {
+        "question": "What is AKMA in the context of 5G security? [3GPP Release 17]",
+        "answer": "option 2: A cellular network-based authentication system",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is AKMA in the context of 5G security? [3GPP Release 17]\nOptions:\noption 1: A secure tunnel between the end user and the application server\noption 2: A cellular network-based authentication system\noption 3: A tamper-resistant smart card\noption 4: A delegated authentication system\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: A secure tunnel between the end user and the application server\n"
+    },
+    {
+        "question": "What are the main functionalities of the Enhancement of support for Edge Computing feature in the 5G Core network? [3GPP Release 17]",
+        "answer": "option 1: Discovery and re-discovery of Edge Application Server, Edge relocation, Network exposure to EAS, Support of 3GPP application layer architecture, AF guidance to PCF determination of URSP rules",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the main functionalities of the Enhancement of support for Edge Computing feature in the 5G Core network? [3GPP Release 17]\nOptions:\noption 1: Discovery and re-discovery of Edge Application Server, Edge relocation, Network exposure to EAS, Support of 3GPP application layer architecture, AF guidance to PCF determination of URSP rules\noption 2: Discovery and re-discovery of Edge Application Server, Network exposure to EAS, Support of 3GPP application layer architecture\noption 3: Edge relocation, Network exposure to EAS, AF guidance to PCF determination of URSP rules\noption 4: Network exposure to EAS, Support of 3GPP application layer architecture, AF guidance to PCF determination of URSP rules\noption 5: Discovery and re-discovery of Edge Application Server, Edge relocation\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Discovery and re-discovery of Edge Application Server, Edge relocation, Network exposure to EAS, Support of 3GPP application layer architecture, AF guidance to PCF determination of URSP rules\n"
+    },
+    {
+        "question": "What is slice specific RACH configuration? [3GPP Release 17]",
+        "answer": "option 2: The configuration of RACH partitioning and prioritization parameters per NSAG",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is slice specific RACH configuration? [3GPP Release 17]\nOptions:\noption 1: The allocation of resources to a slice in case of slice resources shortage\noption 2: The configuration of RACH partitioning and prioritization parameters per NSAG\noption 3: The NSAG mechanism for slice aware cell reselection\noption 4: The support of service continuity for specific slice(s)\noption 5: The enforcement of Slice MBR and usage of Target NSSAI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: The allocation of resources to a slice in case of slice resources shortage\n"
+    },
+    {
+        "question": "What information is broadcasted in the system information for slice aware cell reselection? [3GPP Release 17]",
+        "answer": "option 2: NSAG",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What information is broadcasted in the system information for slice aware cell reselection? [3GPP Release 17]\nOptions:\noption 1: S-NSSAI\noption 2: NSAG\noption 3: NSSRG\noption 4: S-MBR\noption 5: Slice-Maximum Bit Rate\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Slice-Maximum Bit Rate\n"
+    },
+    {
+        "question": "What is the purpose of the NR Coverage and Capacity Optimization (CCO) function? [3GPP Release 17]",
+        "answer": "option 1: To detect and mitigate coverage and cell edge interference issues",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the NR Coverage and Capacity Optimization (CCO) function? [3GPP Release 17]\nOptions:\noption 1: To detect and mitigate coverage and cell edge interference issues\noption 2: To enable inter-system load balancing\noption 3: To optimize 2-step RACH procedure\noption 4: To enhance mobility optimization\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To detect and mitigate coverage and cell edge interference issues\n"
+    },
+    {
+        "question": "What is the purpose of the Edge Enabler Client (EEC) in enabling edge applications? [3GPP Release 17]",
+        "answer": "option 5: To enable discovery of the EASs",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Edge Enabler Client (EEC) in enabling edge applications? [3GPP Release 17]\nOptions:\noption 1: To provide configurations to the Edge Configuration Server\noption 2: To support service provisioning for UE\noption 3: To expose EES capability as APIs to EAS\noption 4: To enable service continuity during UE mobility\noption 5: To enable discovery of the EASs\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To provide configurations to the Edge Configuration Server\n"
+    },
+    {
+        "question": "What enhancements were introduced for NB-IoT and LTE-MTC in Rel-17? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What enhancements were introduced for NB-IoT and LTE-MTC in Rel-17? [3GPP Release 17]\nOptions:\noption 1: 16QAM for NB-IoT in downlink and uplink\noption 2: 14 HARQ processes in downlink for HD-FDD Cat. M1 UEs\noption 3: NB-IoT carrier selection based on coverage level\noption 4: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "In Rel-17, how are user-plane resources over a 3GPP access established in supporting an MA PDU Session? [3GPP Release 17]",
+        "answer": "option 3: They may be established in EPC connected to 5GC",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In Rel-17, how are user-plane resources over a 3GPP access established in supporting an MA PDU Session? [3GPP Release 17]\nOptions:\noption 1: They are always established in the 5G core (5GC) network\noption 2: They are established over a non-3GPP access connected to 5GC\noption 3: They may be established in EPC connected to 5GC\noption 4: They can only be established over NG-RAN access\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: They may be established in EPC connected to 5GC\n"
+    },
+    {
+        "question": "What is the purpose of UE history information in EN-DC? [3GPP Release 17]",
+        "answer": "option 3: To avoid Ping Pong effect during handovers",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of UE history information in EN-DC? [3GPP Release 17]\nOptions:\noption 1: To optimize inter-system load balancing\noption 2: To enhance coverage and cell edge interference\noption 3: To avoid Ping Pong effect during handovers\noption 4: To improve mobility optimization\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To avoid Ping Pong effect during handovers\n"
+    },
+    {
+        "question": "What is the purpose of Plug and Connect (PnC) in network management? [3GPP Release 17]",
+        "answer": "option 1: To provide basic connectivity information to a NE after it is powered up",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Plug and Connect (PnC) in network management? [3GPP Release 17]\nOptions:\noption 1: To provide basic connectivity information to a NE after it is powered up\noption 2: To enable self-configuration procedures for NEs\noption 3: To support provisioning capabilities for adjusting network performance\noption 4: To optimize the services provided over an NG-RAN and 5GC network\noption 5: To collect and report fulfilment status of closed control loop goals\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To enable self-configuration procedures for NEs\n"
+    },
+    {
+        "question": "What is the purpose of Service Enabler Architecture Layer (SEAL)? [3GPP Release 17]",
+        "answer": "option 1: To offer common services to the verticals industry applications and V2X applications",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Service Enabler Architecture Layer (SEAL)? [3GPP Release 17]\nOptions:\noption 1: To offer common services to the verticals industry applications and V2X applications\noption 2: To provide enhanced functionalities for cyber-physical control applications\noption 3: To support network and application enablement for verticals\noption 4: To enable non-public networks and private networks\noption 5: To enhance the 5GC Location Services\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To support network and application enablement for verticals\n"
+    },
+    {
+        "question": "What is the aim of MINT? [3GPP Release 17]",
+        "answer": "option 1: To enable a UE to obtain service from a PLMN offering Disaster Roaming service",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the aim of MINT? [3GPP Release 17]\nOptions:\noption 1: To enable a UE to obtain service from a PLMN offering Disaster Roaming service\noption 2: To enable a UE to obtain service from any PLMN\noption 3: To enable a UE to obtain service from a PLMN without Disaster Roaming service\noption 4: To enable a UE to obtain service from a 4G network\noption 5: To enable a UE to obtain service from a 3G network\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To enable a UE to obtain service from a PLMN offering Disaster Roaming service\n"
+    },
+    {
+        "question": "What is the role of the Edge Enabler Server (EES) in enabling edge applications? [3GPP Release 17]",
+        "answer": "option 3: To expose EES capability as APIs to EAS",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the role of the Edge Enabler Server (EES) in enabling edge applications? [3GPP Release 17]\nOptions:\noption 1: To provide configurations to the Edge Configuration Server\noption 2: To support service provisioning for UE\noption 3: To expose EES capability as APIs to EAS\noption 4: To enable service continuity during UE mobility\noption 5: To enable discovery of Edge Application Servers\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To expose EES capability as APIs to EAS\n"
+    },
+    {
+        "question": "In Rel-17, how are load-balancing split percentages determined? [3GPP Release 17]",
+        "answer": "option 3: They are determined by the UE and UPF using RTT measurements",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In Rel-17, how are load-balancing split percentages determined? [3GPP Release 17]\nOptions:\noption 1: They are fixed and pre-defined by the network\noption 2: They are based on the network's strong steering requirements\noption 3: They are determined by the UE and UPF using RTT measurements\noption 4: They are always 50% on 3GPP access and 50% on non-3GPP access\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: They are fixed and pre-defined by the network\n"
+    },
+    {
+        "question": "What is the purpose of the NSSRG information in UE subscription? [3GPP Release 17]",
+        "answer": "option 1: To indicate which S-NSSAIs can be simultaneously provided to the UE in the Allowed NSSAI",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the NSSRG information in UE subscription? [3GPP Release 17]\nOptions:\noption 1: To indicate which S-NSSAIs can be simultaneously provided to the UE in the Allowed NSSAI\noption 2: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice\noption 3: To monitor the data rate per Network Slice\noption 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: To allocate resources to a slice in case of slice resources shortage\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To indicate which S-NSSAIs can be simultaneously provided to the UE in the Allowed NSSAI\n"
+    },
+    {
+        "question": "What is the purpose of the Paging Restriction feature in Multi-USIM? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Paging Restriction feature in Multi-USIM? [3GPP Release 17]\nOptions:\noption 1: To request the network to not page the UE for any MT service.\noption 2: To request the network to only page the UE for voice service.\noption 3: To request the network to page the UE for specific traffic arriving on selected PDU Session / PDN Connection.\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "Which 3GPP specification specifies the security aspects of application layer support of the Edge Applications? [3GPP Release 17]",
+        "answer": "option 4: TS 33.558",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which 3GPP specification specifies the security aspects of application layer support of the Edge Applications? [3GPP Release 17]\nOptions:\noption 1: TS 23.501\noption 2: TS 23.558\noption 3: TS 28.538\noption 4: TS 33.558\noption 5: TS 24.558\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: TS 33.558\n"
+    },
+    {
+        "question": "What is the purpose of IUC in NR Sidelink enhancement? [3GPP Release 17]",
+        "answer": "option 2: To enable inter-UE coordination",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of IUC in NR Sidelink enhancement? [3GPP Release 17]\nOptions:\noption 1: To indicate QoS requirements\noption 2: To enable inter-UE coordination\noption 3: To support power saving\noption 4: To provide relay selection\noption 5: To handle network authorization\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To enable inter-UE coordination\n"
+    },
+    {
+        "question": "What does the PCF do in relation to monitoring data rate per Network Slice? [3GPP Release 17]",
+        "answer": "option 1: Monitors the data rate per Network Slice and applies policy decisions",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the PCF do in relation to monitoring data rate per Network Slice? [3GPP Release 17]\nOptions:\noption 1: Monitors the data rate per Network Slice and applies policy decisions\noption 2: Enforces the Slice MBR and usage of Target NSSAI\noption 3: Monitors and controls the number of registered UEs per network slice\noption 4: Provides Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: Supports slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Monitors the data rate per Network Slice and applies policy decisions\n"
+    },
+    {
+        "question": "What is the focus of the work item on Handsets Featuring Non-Traditional Earpieces? [3GPP Release 17]",
+        "answer": "option 5: Improving the acoustic test methods for UEs with non-traditional earpieces",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the focus of the work item on Handsets Featuring Non-Traditional Earpieces? [3GPP Release 17]\nOptions:\noption 1: Enhancing the functionality of Multimedia Telephony Service for IMS\noption 2: Updating the test specifications for handsets with traditional earpieces\noption 3: Introducing new test methods for acoustic performance evaluation\noption 4: Defining proper guidance for setting up UEs with traditional earpieces\noption 5: Improving the acoustic test methods for UEs with non-traditional earpieces\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Improving the acoustic test methods for UEs with non-traditional earpieces\n"
+    },
+    {
+        "question": "Where are the relevant procedures for Disaster Roaming service updated? [3GPP Release 17]",
+        "answer": "option 1: TS 24.501",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Where are the relevant procedures for Disaster Roaming service updated? [3GPP Release 17]\nOptions:\noption 1: TS 24.501\noption 2: TS 22.011\noption 3: TS 33.501\noption 4: TS 23.122\noption 5: TS 31.102\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: TS 33.501\n"
+    },
+    {
+        "question": "How does the network provide the paging cause field for voice service to a Multi-USIM UE? [3GPP Release 17]",
+        "answer": "option 5: By providing an indication in the downlink data.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How does the network provide the paging cause field for voice service to a Multi-USIM UE? [3GPP Release 17]\nOptions:\noption 1: By sending a specific indication to the UE.\noption 2: By including the field in the paging message.\noption 3: By sending a separate notification message.\noption 4: By sending a dedicated paging request.\noption 5: By providing an indication in the downlink data.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: By including the field in the paging message.\n"
+    },
+    {
+        "question": "What does the UE provide to the AS for slice aware cell reselection? [3GPP Release 17]",
+        "answer": "option 5: NSAG information",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the UE provide to the AS for slice aware cell reselection? [3GPP Release 17]\nOptions:\noption 1: Slice-Maximum Bit Rate\noption 2: S-NSSAI\noption 3: NSSRG\noption 4: S-MBR\noption 5: NSAG information\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: S-MBR\n"
+    },
+    {
+        "question": "What is the purpose of AKMA TLS protocol profiles? [3GPP Release 17]",
+        "answer": "option 1: To provide secure TLS connections between the UE and an AF in the network",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of AKMA TLS protocol profiles? [3GPP Release 17]\nOptions:\noption 1: To provide secure TLS connections between the UE and an AF in the network\noption 2: To establish a secure tunnel between the network and user equipment\noption 3: To generate keys for use in the 5G core\noption 4: To support non-seamless WLAN offload authentication\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To provide secure TLS connections between the UE and an AF in the network\n"
+    },
+    {
+        "question": "What is the objective of the Extension for headset interface tests of UE work item? [3GPP Release 17]",
+        "answer": "option 1: To extend audio test specifications to analogue and digital electrical interfaces",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the objective of the Extension for headset interface tests of UE work item? [3GPP Release 17]\nOptions:\noption 1: To extend audio test specifications to analogue and digital electrical interfaces\noption 2: To support interoperability between the interface and headsets\noption 3: To define the electrical interfaces for headsets\noption 4: To establish a unified and highly comparable test methods for interfaces\noption 5: To validate performance requirements and objectives in measurement series\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To extend audio test specifications to analogue and digital electrical interfaces\n"
+    },
+    {
+        "question": "What is the purpose of the Converged Charging System (CCS)? [3GPP Release 17]",
+        "answer": "option 3: To perform per tenant charging based on Network Slice usage",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Converged Charging System (CCS)? [3GPP Release 17]\nOptions:\noption 1: To monitor and control the number of registered UEs per network slice\noption 2: To allocate resources to a slice in case of slice resources shortage\noption 3: To perform per tenant charging based on Network Slice usage\noption 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: To support slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To allocate resources to a slice in case of slice resources shortage\n"
+    },
+    {
+        "question": "Which 3GPP specification provides management provisions and solutions for edge computing? [3GPP Release 17]",
+        "answer": "option 3: TS 28.538",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which 3GPP specification provides management provisions and solutions for edge computing? [3GPP Release 17]\nOptions:\noption 1: TS 23.501\noption 2: TS 23.558\noption 3: TS 28.538\noption 4: TS 33.558\noption 5: TS 24.558\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: TS 33.558\n"
+    },
+    {
+        "question": "What is the purpose of Autonomous Networks? [3GPP Release 17]",
+        "answer": "option 3: To support network automation",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Autonomous Networks? [3GPP Release 17]\nOptions:\noption 1: To measure PRB usage for MIMO\noption 2: To optimize inter-system load balancing\noption 3: To support network automation\noption 4: To calculate the energy efficiency of base stations\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To support network automation\n"
+    },
+    {
+        "question": "What is the purpose of L2 measurement? [3GPP Release 17]",
+        "answer": "option 3: To measure PRB usage for MIMO",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of L2 measurement? [3GPP Release 17]\nOptions:\noption 1: To optimize inter-system load balancing\noption 2: To enhance energy efficiency\noption 3: To measure PRB usage for MIMO\noption 4: To improve mobility optimization\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To optimize inter-system load balancing\n"
+    },
+    {
+        "question": "What is the purpose of access performance measurements per QoS flow in ATSS? [3GPP Release 17]",
+        "answer": "option 2: To estimate the RTT and/or Packet Loss Rate over each access of an MA PDU Session",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of access performance measurements per QoS flow in ATSS? [3GPP Release 17]\nOptions:\noption 1: To optimize network performance measurements\noption 2: To estimate the RTT and/or Packet Loss Rate over each access of an MA PDU Session\noption 3: To prioritize non-3GPP access over 3GPP access in load balancing\noption 4: To establish a Multi Access (MA) PDU Session\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To estimate the RTT and/or Packet Loss Rate over each access of an MA PDU Session\n"
+    },
+    {
+        "question": "What is the purpose of the Network Slicing Admission Control Function (NSACF)? [3GPP Release 17]",
+        "answer": "option 1: To monitor and control the number of registered UEs per network slice",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Network Slicing Admission Control Function (NSACF)? [3GPP Release 17]\nOptions:\noption 1: To monitor and control the number of registered UEs per network slice\noption 2: To allocate resources to a slice in case of slice resources shortage\noption 3: To monitor the data rate per Network Slice\noption 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: To support slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To allocate resources to a slice in case of slice resources shortage\n"
+    },
+    {
+        "question": "What is a Multi-USIM UE? [3GPP Release 17]",
+        "answer": "option 2: A UE that can use multiple USIMs and maintain a separate registration state for each one.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is a Multi-USIM UE? [3GPP Release 17]\nOptions:\noption 1: A UE that supports multiple frequencies of USIM cards.\noption 2: A UE that can use multiple USIMs and maintain a separate registration state for each one.\noption 3: A UE that is capable of simultaneous connection with multiple USIMs.\noption 4: A UE that can switch between different USIMs during a call.\noption 5: A UE that has multiple USIM slots for redundancy.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: A UE that can use multiple USIMs and maintain a separate registration state for each one.\n"
+    },
+    {
+        "question": "What is the purpose of Disaster Roaming with Minimization of Service Interruption? [3GPP Release 17]",
+        "answer": "option 3: To minimize service interruption in disaster conditions.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Disaster Roaming with Minimization of Service Interruption? [3GPP Release 17]\nOptions:\noption 1: To maximize service interruption in disaster conditions.\noption 2: To prevent service interruption in disaster conditions.\noption 3: To minimize service interruption in disaster conditions.\noption 4: To provide faster service in disaster conditions.\noption 5: To enable disaster conditions in the network.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To minimize service interruption in disaster conditions.\n"
+    },
+    {
+        "question": "What does NR Sidelink Relay enable? [3GPP Release 17]",
+        "answer": "option 2: L2 and L3 based UE-to-Network relay",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does NR Sidelink Relay enable? [3GPP Release 17]\nOptions:\noption 1: Pedestrian UEs power efficiency\noption 2: L2 and L3 based UE-to-Network relay\noption 3: Remote UE and relay UE identification\noption 4: Beamforming and MIMO techniques\noption 5: Direct communication between UEs\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: L2 and L3 based UE-to-Network relay\n"
+    },
+    {
+        "question": "Which 3GPP specification defines the architecture, procedures, and information flows to enable edge applications over 3GPP networks? [3GPP Release 17]",
+        "answer": "option 3: TS 23.558",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which 3GPP specification defines the architecture, procedures, and information flows to enable edge applications over 3GPP networks? [3GPP Release 17]\nOptions:\noption 1: TS 23.548\noption 2: TS 23.748\noption 3: TS 23.558\noption 4: TS 23.501\noption 5: TS 23.222\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: TS 23.558\n"
+    },
+    {
+        "question": "What is the purpose of the Target NSSAI for NG-RAN? [3GPP Release 17]",
+        "answer": "option 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Target NSSAI for NG-RAN? [3GPP Release 17]\nOptions:\noption 1: To limit the aggregate data rate per UE across all QoS Flows for all PDU sessions associated with a slice\noption 2: To indicate which S-NSSAIs can be simultaneously provided to the UE in the Allowed NSSAI\noption 3: To monitor the data rate per Network Slice\noption 4: To provide Target NSSAI and RFSP to RAN to steer the UE to another cell\noption 5: To support slice specific RACH configuration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To indicate which S-NSSAIs can be simultaneously provided to the UE in the Allowed NSSAI\n"
+    },
+    {
+        "question": "How is PDCCH skipping configured for UE power saving in connected mode? [3GPP Release 17]",
+        "answer": "option 1: By providing skipping duration",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How is PDCCH skipping configured for UE power saving in connected mode? [3GPP Release 17]\nOptions:\noption 1: By providing skipping duration\noption 2: By indicating skipping start slot\noption 3: By indicating skipping end slot\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What is the purpose of the Edge Configuration Server (ECS) specified in TS 23.558? [3GPP Release 17]",
+        "answer": "option 2: To provide configurations to the Edge Enabler Client (EEC)",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Edge Configuration Server (ECS) specified in TS 23.558? [3GPP Release 17]\nOptions:\noption 1: To enable discovery of Edge Application Servers\noption 2: To provide configurations to the Edge Enabler Client (EEC)\noption 3: To support service provisioning for UE\noption 4: To expose EES capability as APIs to EAS\noption 5: To enable service continuity during UE mobility\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To provide configurations to the Edge Enabler Client (EEC)\n"
+    },
+    {
+        "question": "What is the purpose of Enhanced support of Non-Public Networks? [3GPP Release 17]",
+        "answer": "option 4: To enable access to non-public networks using credentials from a Credential Holder",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Enhanced support of Non-Public Networks? [3GPP Release 17]\nOptions:\noption 1: To support clock synchronization in the 5G system\noption 2: To enhance the 5GC Location Services\noption 3: To enable enhanced functionalities for cyber-physical control applications\noption 4: To enable access to non-public networks using credentials from a Credential Holder\noption 5: To improve positioning accuracy in NR Positioning enhancements\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To enable access to non-public networks using credentials from a Credential Holder\n"
+    },
+    {
+        "question": "What is the MUSIM-specific AT command specification? [3GPP Release 17]",
+        "answer": "option 2: TS 27.007",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the MUSIM-specific AT command specification? [3GPP Release 17]\nOptions:\noption 1: TS 23.501\noption 2: TS 27.007\noption 3: TS 29.518\noption 4: TS 24.501\noption 5: TS 23.228\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: TS 29.518\n"
+    },
+    {
+        "question": "What functionality does Management Based Activation provide? [3GPP Release 17]",
+        "answer": "option 1: Activation of management services for UEs in a specified area",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What functionality does Management Based Activation provide? [3GPP Release 17]\nOptions:\noption 1: Activation of management services for UEs in a specified area\noption 2: Deactivation of management services for UEs in a specified area\noption 3: Temporary stop and restart of management services during RAN overload\noption 4: Request for end user service performance information for one specific UE\noption 5: Handling management services during handover\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Activation of management services for UEs in a specified area\n"
+    },
+    {
+        "question": "What new methods for controlling management data production, collection, coordination, and discovery were introduced? [3GPP Release 17]",
+        "answer": "option 4: Methods for producing, reporting, and discovering management data in RAN and core network functions",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What new methods for controlling management data production, collection, coordination, and discovery were introduced? [3GPP Release 17]\nOptions:\noption 1: Methods for monitoring the progress of file download in a downloading job\noption 2: Methods for managing the performance of network slices\noption 3: Methods for controlling and reporting MDT measurement in UMTS, LTE, and 5G networks\noption 4: Methods for producing, reporting, and discovering management data in RAN and core network functions\noption 5: Methods for enhancing the support for NSA in the service-based management architecture\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Methods for producing, reporting, and discovering management data in RAN and core network functions\n"
+    },
+    {
+        "question": "How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17]",
+        "answer": "option 2: It uses information stored in the UE when it was detached.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17]\nOptions:\noption 1: It requests the core network node to remember its previous selection.\noption 2: It uses information stored in the UE when it was detached.\noption 3: It relies on the SIM/USIM card for information.\noption 4: It performs a fresh attach procedure.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: It performs a fresh attach procedure.\n"
+    },
+    {
+        "question": "When can the setting of the Privacy exception list be changed? [3GPP Release 17]",
+        "answer": "option 3: Anytime",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When can the setting of the Privacy exception list be changed? [3GPP Release 17]\nOptions:\noption 1: Never\noption 2: Only during emergency services\noption 3: Anytime\noption 4: Only with operator permission\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Anytime\n"
+    },
+    {
+        "question": "What should the UE consider if it cannot detect any cell meeting the S criterion on a frequency for sidelink operation? [3GPP Release 17]",
+        "answer": "option 1: Out-of-coverage for sidelink operation on that frequency",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What should the UE consider if it cannot detect any cell meeting the S criterion on a frequency for sidelink operation? [3GPP Release 17]\nOptions:\noption 1: Out-of-coverage for sidelink operation on that frequency\noption 2: Out-of-coverage for V2X sidelink communication on that frequency\noption 3: Out-of-coverage for NR sidelink communication on that frequency\noption 4: In-coverage for NR sidelink communication on that frequency\noption 5: In-coverage for sidelink operation on that frequency\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: In-coverage for NR sidelink communication on that frequency\n"
+    },
+    {
+        "question": "When can target UEs be positioned for lawful interception services? [3GPP Release 17]",
+        "answer": "option 3: Under all circumstances required by local regulatory requirements",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When can target UEs be positioned for lawful interception services? [3GPP Release 17]\nOptions:\noption 1: Only if the target UE user authorizes it\noption 2: Only if the privacy attribute value allows positioning\noption 3: Under all circumstances required by local regulatory requirements\noption 4: Never\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Only if the privacy attribute value allows positioning\n"
+    },
+    {
+        "question": "What are DCI formats with CRC scrambled by MCCH-RNTI or G-RNTI referred to as? [3GPP Release 17]",
+        "answer": "option 2: Broadcast DCI formats",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are DCI formats with CRC scrambled by MCCH-RNTI or G-RNTI referred to as? [3GPP Release 17]\nOptions:\noption 1: Multicast DCI formats\noption 2: Broadcast DCI formats\noption 3: Unicast DCI formats\noption 4: PUCCH DCI formats\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Broadcast DCI formats\n"
+    },
+    {
+        "question": "What kind of access can enterprise UEs have to non-public networks? [3GPP Release 17]",
+        "answer": "option 2: Access to both a non-public network and a PLMN",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What kind of access can enterprise UEs have to non-public networks? [3GPP Release 17]\nOptions:\noption 1: Access to the non-public network of the enterprise only\noption 2: Access to both a non-public network and a PLMN\noption 3: Access to a PLMN only\noption 4: Access to a PLMN and a non-public network via a different network\noption 5: Access to a PLMN and a non-public network via multiple subscriptions\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Access to the non-public network of the enterprise only\n"
+    },
+    {
+        "question": "What action is necessary to get access to services in Idle mode? [3GPP Release 17]",
+        "answer": "option 1: Camping on a cell",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What action is necessary to get access to services in Idle mode? [3GPP Release 17]\nOptions:\noption 1: Camping on a cell\noption 2: Performing location registration\noption 3: Performing CN type selection\noption 4: Performing RNA update\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Camping on a cell\n"
+    },
+    {
+        "question": "What is the purpose of the User Configuration mechanism in the IMS Multimedia Telephony service? [3GPP Release 17]",
+        "answer": "option 2: To indicate which identities are active or inactive on a specific UE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the User Configuration mechanism in the IMS Multimedia Telephony service? [3GPP Release 17]\nOptions:\noption 1: To support synchronization of communication logs between multiple devices\noption 2: To indicate which identities are active or inactive on a specific UE\noption 3: To provide user preferences for media handling capabilities\noption 4: To modify the Caller Identity Analytics function\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To indicate which identities are active or inactive on a specific UE\n"
+    },
+    {
+        "question": "What is the maximum number of PDU Sessions? [3GPP Release 17]",
+        "answer": "option 4: 256",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the maximum number of PDU Sessions? [3GPP Release 17]\nOptions:\noption 1: 128\noption 2: 32\noption 3: 8\noption 4: 256\noption 5: 64\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: 64\n"
+    },
+    {
+        "question": "Which identity is used for indication of pre-emption in the downlink? [3GPP Release 17]",
+        "answer": "option 4: INT-RNTI",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which identity is used for indication of pre-emption in the downlink? [3GPP Release 17]\nOptions:\noption 1: C-RNTI\noption 2: CI-RNTI\noption 3: CS-RNTI\noption 4: INT-RNTI\noption 5: P-RNTI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: P-RNTI\n"
+    },
+    {
+        "question": "What does a UE determine when selecting a power for an S-SS/PSBCH block transmission occasion? [3GPP Release 17]",
+        "answer": "option 5: Value of dl-P0-PSBCH-r16 if provided, else dl-Alpha-PSBCH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does a UE determine when selecting a power for an S-SS/PSBCH block transmission occasion? [3GPP Release 17]\nOptions:\noption 1: Value of dl-P0-PSBCH-r16\noption 2: Value of dl-Alpha-PSBCH\noption 3: Number of resource blocks for a S-SS/PSBCH block transmission\noption 4: Value of dl-P0-PSBCH-r17\noption 5: Value of dl-P0-PSBCH-r16 if provided, else dl-Alpha-PSBCH\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Value of dl-P0-PSBCH-r16 if provided, else dl-Alpha-PSBCH\n"
+    },
+    {
+        "question": "What is the purpose of the MasterInformationBlockSidelink message? [3GPP Release 17]",
+        "answer": "option 5: To include the system information transmitted by a UE via SL-BCH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the MasterInformationBlockSidelink message? [3GPP Release 17]\nOptions:\noption 1: To request UE sidelink capabilities\noption 2: To indicate the failure of a PC5 RRC AS reconfiguration\noption 3: To transfer UE radio access capabilities\noption 4: To include sidelink DRX assistance information used to determine the sidelink DRX configuration\noption 5: To include the system information transmitted by a UE via SL-BCH\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: To include the system information transmitted by a UE via SL-BCH\n"
+    },
+    {
+        "question": "What is the purpose of interworking between a 5G core network and an EPC? [3GPP Release 17]",
+        "answer": "option 4: To support mobility procedures with minimum impact to the user experience",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of interworking between a 5G core network and an EPC? [3GPP Release 17]\nOptions:\noption 1: To support home network provided data connectivity\noption 2: To preserve IP address for PS service\noption 3: To provide support for services in the home network\noption 4: To support mobility procedures with minimum impact to the user experience\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To support mobility procedures with minimum impact to the user experience\n"
+    },
+    {
+        "question": "How does a non-supporting UE select a core network operator to serve it in a shared network? [3GPP Release 17]",
+        "answer": "option 2: The shared network selects an operator for the UE.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How does a non-supporting UE select a core network operator to serve it in a shared network? [3GPP Release 17]\nOptions:\noption 1: The UE selects an operator from the available CN operators.\noption 2: The shared network selects an operator for the UE.\noption 3: The RAN routes the UE to an available CN node.\noption 4: The BSC/RNC/eNodeB relays the chosen operator to the core network node.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: The UE selects an operator from the available CN operators.\n"
+    },
+    {
+        "question": "For PSFCH transmission with HARQ-ACK information, how are the PRBs allocated? [3GPP Release 17]",
+        "answer": "option 3: In an ascending order of both the PRB index and the cyclic shift pair index",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: For PSFCH transmission with HARQ-ACK information, how are the PRBs allocated? [3GPP Release 17]\nOptions:\noption 1: In an ascending order of the PRB index only\noption 2: In an ascending order of the cyclic shift pair index only\noption 3: In an ascending order of both the PRB index and the cyclic shift pair index\noption 4: In a random order\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: In an ascending order of both the PRB index and the cyclic shift pair index\n"
+    },
+    {
+        "question": "What determines the energy detection threshold in channel access procedures? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What determines the energy detection threshold in channel access procedures? [3GPP Release 17]\nOptions:\noption 1: The maximum eNB/gNB output power in dBm for the channel\noption 2: The single channel bandwidth in MHz\noption 3: The absence of any other technology sharing the channel\noption 4: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What does VarConnEstFailReportList include? [3GPP Release 17]",
+        "answer": "option 4: Information about connection establishment failures",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does VarConnEstFailReportList include? [3GPP Release 17]\nOptions:\noption 1: Information about connection resume successes\noption 2: Information about connection establishment successes\noption 3: Information about connection resume failures\noption 4: Information about connection establishment failures\noption 5: Information about successful handovers\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Information about connection establishment failures\n"
+    },
+    {
+        "question": "Which interface is used to transfer short messages between the SGSN and SMS-GMSC/SMS-IWMSC? [3GPP Release 17]",
+        "answer": "option 5: Gd-interface",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which interface is used to transfer short messages between the SGSN and SMS-GMSC/SMS-IWMSC? [3GPP Release 17]\nOptions:\noption 1: Gn/Gp-interface\noption 2: Gr-interface\noption 3: Gs-interface\noption 4: Gb-interface\noption 5: Gd-interface\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Gs-interface\n"
+    },
+    {
+        "question": "What does the RRC protocol offer to upper layers? [3GPP Release 17]",
+        "answer": "option 1: Broadcast of common control information",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the RRC protocol offer to upper layers? [3GPP Release 17]\nOptions:\noption 1: Broadcast of common control information\noption 2: Notification of UEs in RRC_IDLE\noption 3: Transfer of dedicated signalling\noption 4: Broadcast of positioning assistance data\noption 5: Transfer of application layer measurement configuration and reporting\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Transfer of dedicated signalling\n"
+    },
+    {
+        "question": "What is SIPTO at the Local Network? [3GPP Release 17]",
+        "answer": "option 1: A collocated L-GW in the eNB",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is SIPTO at the Local Network? [3GPP Release 17]\nOptions:\noption 1: A collocated L-GW in the eNB\noption 2: A standalone GW\noption 3: A collocated S-GW and L-GW in the eNB\noption 4: A collocated MME and S-GW\noption 5: A collocated MME and L-GW\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: A collocated S-GW and L-GW in the eNB\n"
+    },
+    {
+        "question": "When is Paging with Wake Up Signal (WUS) used? [3GPP Release 17]",
+        "answer": "option 2: When the UE is in RRC_IDLE state",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When is Paging with Wake Up Signal (WUS) used? [3GPP Release 17]\nOptions:\noption 1: When the UE is in RRC_INACTIVE state\noption 2: When the UE is in RRC_IDLE state\noption 3: When the UE detects a PTW\noption 4: When the UE supports DRX\noption 5: When the UE supports GWUS\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: When the UE is in RRC_idle state\n"
+    },
+    {
+        "question": "In unpaired spectrum operation, when are a DL BWP and an UL BWP linked together? [3GPP Release 17]",
+        "answer": "option 1: When the DL BWP index and the UL BWP index are the same",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In unpaired spectrum operation, when are a DL BWP and an UL BWP linked together? [3GPP Release 17]\nOptions:\noption 1: When the DL BWP index and the UL BWP index are the same\noption 2: When the center frequency for both BWP is the same\noption 3: When they have the same SCS configuration\noption 4: When they have the same number of RB sets\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: When the DL BWP index and the UL BWP index are the same\n"
+    },
+    {
+        "question": "How is Extended Access Barring supported in shared networks? [3GPP Release 17]",
+        "answer": "option 4: The BSC/RNC/eNodeB provides independent support for each sharing operator.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How is Extended Access Barring supported in shared networks? [3GPP Release 17]\nOptions:\noption 1: The BSC/RNC/eNodeB configures the UE for access barring.\noption 2: The shared network applies access barring uniformly for all UEs.\noption 3: The UE requests access barring for specific operators.\noption 4: The BSC/RNC/eNodeB provides independent support for each sharing operator.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: The shared network applies access barring uniformly for all UEs.\n"
+    },
+    {
+        "question": "What are the peak packet data rates supported by the Evolved Packet System on the radio access bearer? [3GPP Release 17]",
+        "answer": "option 1: 100 Mbps downlink and 50 Mbps uplink",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the peak packet data rates supported by the Evolved Packet System on the radio access bearer? [3GPP Release 17]\nOptions:\noption 1: 100 Mbps downlink and 50 Mbps uplink\noption 2: 50 Mbps downlink and 100 Mbps uplink\noption 3: 100 Mbps both downlink and uplink\noption 4: 50 Mbps both downlink and uplink\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: 100 Mbps downlink and 50 Mbps uplink\n"
+    },
+    {
+        "question": "What is a Personal IoT Network (PIN)? [3GPP Release 17]",
+        "answer": "option 3: A network that consists of PIN Elements and communicates using PIN Direct Connection.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is a Personal IoT Network (PIN)? [3GPP Release 17]\nOptions:\noption 1: A network located within a residence, office or shop that provides connectivity to the 5G network.\noption 2: A network owned, installed, and configured by a public network operator.\noption 3: A network that consists of PIN Elements and communicates using PIN Direct Connection.\noption 4: A network that supports mechanisms for identifying a PIN, PIN Element, eRG, and PRAS.\noption 5: A network that supports regulatory requirements for emergency calls, PWS, and eCall for UEs connected via 3GPP access.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: A network located within a residence, office or shop that provides connectivity to the 5G network.\n"
+    },
+    {
+        "question": "What does the 5G system need to provide for mobile base station relays using 5G connectivity provided by a different MNO? [3GPP Release 17]",
+        "answer": "option 3: Ability for MNO-A and MNO-B to share relay resources for UEs connected to the 5G network",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the 5G system need to provide for mobile base station relays using 5G connectivity provided by a different MNO? [3GPP Release 17]\nOptions:\noption 1: Separate network infrastructure for MNO-B to communicate with MNO-A through the relay\noption 2: Specific QoS handling for traffic relayed through the MNO-B's network\noption 3: Ability for MNO-A and MNO-B to share relay resources for UEs connected to the 5G network\noption 4: Authorization from MNO-A for MNO-B to provide 5G connectivity through the relay\noption 5: Ownership and control of the relay by MNO-A despite using connectivity from MNO-B\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Separate network infrastructure for MNO-B to communicate with MNO-A through the relay\n"
+    },
+    {
+        "question": "When can a UE apply Type 1 channel access procedures for a UL transmission(s)? [3GPP Release 17]",
+        "answer": "option 3: After receiving the corresponding capability",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When can a UE apply Type 1 channel access procedures for a UL transmission(s)? [3GPP Release 17]\nOptions:\noption 1: Before receiving the corresponding capability\noption 2: After performing Type 2 channel access procedures\noption 3: After receiving the corresponding capability\noption 4: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: After receiving the corresponding capability\n"
+    },
+    {
+        "question": "What does the timing advance command for a TAG indicate? [3GPP Release 17]",
+        "answer": "option 3: Change of uplink timing relative to the current uplink timing",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the timing advance command for a TAG indicate? [3GPP Release 17]\nOptions:\noption 1: Change of synchronization signal transmission timing\noption 2: Change of downlink timing relative to the current downlink timing\noption 3: Change of uplink timing relative to the current uplink timing\noption 4: Change of broadcast channel transmission timing\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Change of downlink timing relative to the current downlink timing\n"
+    },
+    {
+        "question": "What is the high quality criterion for reporting a PLMN to the NAS in the E-UTRA and NB-IoT case? [3GPP Release 17]",
+        "answer": "option 1: Measured RSRP value greater than or equal to -110 dBm",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the high quality criterion for reporting a PLMN to the NAS in the E-UTRA and NB-IoT case? [3GPP Release 17]\nOptions:\noption 1: Measured RSRP value greater than or equal to -110 dBm\noption 2: Measured RSRP value less than -110 dBm\noption 3: Measured RSRP value greater than or equal to -100 dBm\noption 4: Measured RSRP value less than -100 dBm\noption 5: Measured RSRP value greater than or equal to -120 dBm\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Measured RSRP value greater than or equal to -110 dBm\n"
+    },
+    {
+        "question": "What is the RRC buffer size for a UE? [3GPP Release 17]",
+        "answer": "option 2: 45 KB",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the RRC buffer size for a UE? [3GPP Release 17]\nOptions:\noption 1: 45 MB\noption 2: 45 KB\noption 3: 45 GB\noption 4: 45 TB\noption 5: 4500 KB\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: 4500 KB\n"
+    },
+    {
+        "question": "What is one of the requirements for interworking between fixed access and Evolved Packet Core? [3GPP Release 17]",
+        "answer": "option 3: Routing different PDN connections through different accesses",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is one of the requirements for interworking between fixed access and Evolved Packet Core? [3GPP Release 17]\nOptions:\noption 1: Efficient usage of system resources\noption 2: Policy management and authentication for WLAN terminals\noption 3: Routing different PDN connections through different accesses\noption 4: Support for simultaneous access to PLMN services\noption 5: Support for offline charging for traffic routed via the Evolved Packet Core\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Routing different PDN connections through different accesses\n"
+    },
+    {
+        "question": "How is the modulation order (Qm) and target code rate (R) determined for PSSCH transmission? [3GPP Release 17]",
+        "answer": "option 2: Based on the MCS table",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How is the modulation order (Qm) and target code rate (R) determined for PSSCH transmission? [3GPP Release 17]\nOptions:\noption 1: Based on the DM-RS configuration\noption 2: Based on the MCS table\noption 3: Based on the number of REs in the slot\noption 4: Based on the redundancy version\noption 5: Based on the number of DMRS port\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Based on the MCS table\n"
+    },
+    {
+        "question": "Which parameter in SL-TxProfileList-r17 indicates compatibility with DRX? [3GPP Release 17]",
+        "answer": "option 3: drx-Compatible",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which parameter in SL-TxProfileList-r17 indicates compatibility with DRX? [3GPP Release 17]\nOptions:\noption 1: spare1\noption 2: spare2\noption 3: drx-Compatible\noption 4: drx-Incompatible\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: drx-Compatible\n"
+    },
+    {
+        "question": "In the context of pathloss models, what is O2I? [3GPP Release 17]",
+        "answer": "option 4: Outdoor to Indoor",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In the context of pathloss models, what is O2I? [3GPP Release 17]\nOptions:\noption 1: Over-to-Inaction\noption 2: Out-of-Office\noption 3: On-to-Infinity\noption 4: Outdoor to Indoor\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: On-to-Infinity\n"
+    },
+    {
+        "question": "What is true about services not mentioned within the interaction clause? [3GPP Release 17]",
+        "answer": "option 1: They have no impact on other supplementary services",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is true about services not mentioned within the interaction clause? [3GPP Release 17]\nOptions:\noption 1: They have no impact on other supplementary services\noption 2: They are mandatory for IMS Multimedia Telephony service\noption 3: They are optional for IMS Multimedia Telephony service\noption 4: They are applicable to UE accessing IMS via 3GPP accesses\noption 5: They are applicable to CEPT members\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: They have no impact on other supplementary services\n"
+    },
+    {
+        "question": "What does the 5G system need to support for a UE accessing multiple network slices? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the 5G system need to support for a UE accessing multiple network slices? [3GPP Release 17]\nOptions:\noption 1: Access to the most suitable network slice in minimum time\noption 2: Minimization of power consumption\noption 3: Minimization of service interruption time\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What does the 5G system prevent in terms of privacy for UEs using 5G LAN-type service? [3GPP Release 17]",
+        "answer": "option 1: Sharing of UE's identifying information",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the 5G system prevent in terms of privacy for UEs using 5G LAN-type service? [3GPP Release 17]\nOptions:\noption 1: Sharing of UE's identifying information\noption 2: Sharing of UE's IP address\noption 3: Sharing of UE's location information\noption 4: Sharing of UE's communication history\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "What is associated with a time and/or date setting in the IMS Multimedia Telephony service? [3GPP Release 17]",
+        "answer": "option 3: Activation, deactivation, and invocation of services",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is associated with a time and/or date setting in the IMS Multimedia Telephony service? [3GPP Release 17]\nOptions:\noption 1: Media capabilities\noption 2: Caller identity verification results\noption 3: Activation, deactivation, and invocation of services\noption 4: Allow/block lists for service activation\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Activation, deactivation, and invocation of services\n"
+    },
+    {
+        "question": "Which entities can consume Management Data Analytics Service (MDAS)? [3GPP Release 17]",
+        "answer": "option 1: MnFs, NFs, SON functions, SLS assurance functions, human operators, and AFs",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which entities can consume Management Data Analytics Service (MDAS)? [3GPP Release 17]\nOptions:\noption 1: MnFs, NFs, SON functions, SLS assurance functions, human operators, and AFs\noption 2: MnS producers, NWDAF, network and service optimization tools/functions, and AFs\noption 3: Producers and consumers of network and service management\noption 4: MnFs, NFs, SON functions, and AFs\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: MnFs, NFs, SON functions, SLS assurance functions, human operators, and AFs\n"
+    },
+    {
+        "question": "What type of frames does the Ethernet transport service need to support? [3GPP Release 17]",
+        "answer": "option 3: Ethernet frames",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What type of frames does the Ethernet transport service need to support? [3GPP Release 17]\nOptions:\noption 1: IP frames\noption 2: TCP frames\noption 3: Ethernet frames\noption 4: UDP frames\noption 5: DNS frames\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Ethernet frames\n"
+    },
+    {
+        "question": "What is the typical connection density in factory automation applications? [3GPP Release 17]",
+        "answer": "option 3: 10 connections per km2",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the typical connection density in factory automation applications? [3GPP Release 17]\nOptions:\noption 1: 10 connections per 10 m2\noption 2: 1 connection per 100 m3\noption 3: 10 connections per km2\noption 4: 100 connections per factory hall\noption 5: 1,000 connections per 1,000 m2\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: 10 connections per 10 m2\n"
+    },
+    {
+        "question": "What is the purpose of the Enhanced TNL Address Discovery with the X2 GW? [3GPP Release 17]",
+        "answer": "option 4: To enhance the TNL address discovery procedure",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the Enhanced TNL Address Discovery with the X2 GW? [3GPP Release 17]\nOptions:\noption 1: To route X2AP messages between (H)eNBs\noption 2: To detect (H)eNB unavailability\noption 3: To register (H)eNBs with the X2 GW\noption 4: To enhance the TNL address discovery procedure\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To enhance the TNL address discovery procedure\n"
+    },
+    {
+        "question": "What is the purpose of providing secure means for communication scheduling information to an NPN in a 5G network? [3GPP Release 17]",
+        "answer": "option 1: To perform network energy saving and network resource optimization",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of providing secure means for communication scheduling information to an NPN in a 5G network? [3GPP Release 17]\nOptions:\noption 1: To perform network energy saving and network resource optimization\noption 2: To assign a UE to a network slice used for the third-party\noption 3: To expose broadcasting capabilities to trusted third-party broadcasters' management systems\noption 4: To allow a third-party to manage this trusted third-party owned application(s) in the operator's Service Hosting Environment\noption 5: To monitor the resource utilization of the network service that are associated with the third-party\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To perform network energy saving and network resource optimization\n"
+    },
+    {
+        "question": "What are the ThreshServingOffloadWLAN parameters used for? [3GPP Release 17]",
+        "answer": "option 5: To define the RSRP threshold for traffic steering from E-UTRAN to WLAN.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the ThreshServingOffloadWLAN parameters used for? [3GPP Release 17]\nOptions:\noption 1: To specify the WLAN channel utilization threshold.\noption 2: To define the RSRP threshold for traffic steering from WLAN to E-UTRAN.\noption 3: To specify the WLAN RSSI threshold in dB.\noption 4: To determine the timer value for traffic steering between E-UTRAN and WLAN.\noption 5: To define the RSRP threshold for traffic steering from E-UTRAN to WLAN.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: To define the RSRP threshold for traffic steering from E-UTRAN to WLAN.\n"
+    },
+    {
+        "question": "What is the scrambling sequence generator initialized with for a PDCCH with the CRC scrambled by G-RNTI in a common search space? [3GPP Release 17]",
+        "answer": "option 1: dataScramblingIdentityPDSCH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the scrambling sequence generator initialized with for a PDCCH with the CRC scrambled by G-RNTI in a common search space? [3GPP Release 17]\nOptions:\noption 1: dataScramblingIdentityPDSCH\noption 2: dataScramblingIdentityPDSCH2\noption 3: C-RNTI\noption 4: MCS-C-RNTI\noption 5: CS-RNTI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: dataScramblingIdentityPDSCH2\n"
+    },
+    {
+        "question": "Which RRC state is the UE in when no RRC connection is established? [3GPP Release 17]",
+        "answer": "option 5: RRC_IDLE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which RRC state is the UE in when no RRC connection is established? [3GPP Release 17]\nOptions:\noption 1: RRC_UNAVAILABLE\noption 2: RRC_INACTIVE\noption 3: RRC_CONNECTED\noption 4: RRC_DISCONNECTED\noption 5: RRC_IDLE\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: RRC_idle\n"
+    },
+    {
+        "question": "How are the antenna elements placed on each antenna panel? [3GPP Release 17]",
+        "answer": "option 3: In both the vertical and horizontal directions",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How are the antenna elements placed on each antenna panel? [3GPP Release 17]\nOptions:\noption 1: Only in the vertical direction\noption 2: Only in the horizontal direction\noption 3: In both the vertical and horizontal directions\noption 4: In a random arrangement\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: In both the vertical and horizontal directions\n"
+    },
+    {
+        "question": "What information may be provided to an emergency services LCS Client without any request? [3GPP Release 17]",
+        "answer": "option 3: Both 1 and 2",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What information may be provided to an emergency services LCS Client without any request? [3GPP Release 17]\nOptions:\noption 1: Geographic location\noption 2: Dispatchable Location\noption 3: Both 1 and 2\noption 4: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Both 1 and 2\n"
+    },
+    {
+        "question": "What is the purpose of cross-network slice coordination? [3GPP Release 17]",
+        "answer": "option 1: To coordinate network slices in multiple 5G networks",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of cross-network slice coordination? [3GPP Release 17]\nOptions:\noption 1: To coordinate network slices in multiple 5G networks\noption 2: To prevent unauthorized access to network slices\noption 3: To optimize resource utilization in a network\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To coordinate network slices in multiple 5G networks\n"
+    },
+    {
+        "question": "What does a RedCap UE expect if it monitors PDCCH according to Type1-PDCCH CSS set and does not monitor PDCCH according to Type2-PDCCH CSS set? [3GPP Release 17]",
+        "answer": "option 2: The initial DL BWP to exclude SS/PBCH blocks and the CORESET with index 0",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does a RedCap UE expect if it monitors PDCCH according to Type1-PDCCH CSS set and does not monitor PDCCH according to Type2-PDCCH CSS set? [3GPP Release 17]\nOptions:\noption 1: The initial DL BWP to include SS/PBCH blocks and the CORESET with index 0\noption 2: The initial DL BWP to exclude SS/PBCH blocks and the CORESET with index 0\noption 3: The active DL BWP to include SS/PBCH blocks and the CORESET with index 0\noption 4: The active DL BWP to exclude SS/PBCH blocks and the CORESET with index 0\noption 5: No expectation regarding the inclusion or exclusion of SS/PBCH blocks and the CORESET with index 0\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: No expectation regarding the inclusion or exclusion of SS/PBCH blocks and the CORESET with index 0\n"
+    },
+    {
+        "question": "Which physical channel informs the UE and the RN about the number of OFDM symbols used for the PDCCHs? [3GPP Release 17]",
+        "answer": "option 2: PCFICH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which physical channel informs the UE and the RN about the number of OFDM symbols used for the PDCCHs? [3GPP Release 17]\nOptions:\noption 1: PBCH\noption 2: PCFICH\noption 3: PDSCH\noption 4: PHICH\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: PCFICH\n"
+    },
+    {
+        "question": "Which specification specifies the Support of NR MBS in non-split gNB case? [3GPP Release 17]",
+        "answer": "option 3: TS 38.300",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which specification specifies the Support of NR MBS in non-split gNB case? [3GPP Release 17]\nOptions:\noption 1: TS 23.501\noption 2: TS 36.300\noption 3: TS 38.300\noption 4: TS 38.305\noption 5: TS 38.400\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: TS 38.400\n"
+    },
+    {
+        "question": "What type of reports are used to support QoS-aware packet scheduling in the uplink? [3GPP Release 17]",
+        "answer": "option 4: Uplink buffer status reports",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What type of reports are used to support QoS-aware packet scheduling in the uplink? [3GPP Release 17]\nOptions:\noption 1: Delay reports\noption 2: Power headroom reports\noption 3: Transmission reports\noption 4: Uplink buffer status reports\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Transmission reports\n"
+    },
+    {
+        "question": "What is the main role of the DeNB in the mobility of a UE to or from an RN? [3GPP Release 17]",
+        "answer": "option 1: To trigger the S1 or X2 handover procedure for the UE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the main role of the DeNB in the mobility of a UE to or from an RN? [3GPP Release 17]\nOptions:\noption 1: To trigger the S1 or X2 handover procedure for the UE\noption 2: To provide GUMMEI information to the RN\noption 3: To update the cell information of the RN\noption 4: To transfer neighbouring information to the RN\noption 5: To initiate the RRC connection establishment for the UE\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To trigger the S1 or X2 handover procedure for the UE\n"
+    },
+    {
+        "question": "In a split gNB architecture, how is RACH configuration conflict resolved? [3GPP Release 17]",
+        "answer": "option 5: The gNB-CU forwards neighbor cell's PRACH configurations to the gNB-DU.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In a split gNB architecture, how is RACH configuration conflict resolved? [3GPP Release 17]\nOptions:\noption 1: The gNB-CU reassigns a new PCI for NR cells suffering PCI conflict.\noption 2: The gNB-DU reports RACH configuration conflict to the gNB-CU.\noption 3: The gNB-DU signals the PRACH configuration per-cell to the gNB-CU.\noption 4: The gNB-CU merges the outgoing RIM information received from its gNB-DUs.\noption 5: The gNB-CU forwards neighbor cell's PRACH configurations to the gNB-DU.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: The gNB-CU reassigns a new PCI for NR cells suffering PCI conflict.\n"
+    },
+    {
+        "question": "What should the UE do when checking access Class or ACDC category related cell access restrictions during RRC connection establishment for E-UTRA connected to EPC? [3GPP Release 17]",
+        "answer": "option 4: Check the access restrictions and proceed accordingly",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What should the UE do when checking access Class or ACDC category related cell access restrictions during RRC connection establishment for E-UTRA connected to EPC? [3GPP Release 17]\nOptions:\noption 1: Ignore the access restrictions\noption 2: Reject the cell for camping on\noption 3: Trigger cell reselection\noption 4: Check the access restrictions and proceed accordingly\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Check the access restrictions and proceed accordingly\n"
+    },
+    {
+        "question": "When is DCP configured on the PCell? [3GPP Release 17]",
+        "answer": "option 5: When CA is configured",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When is DCP configured on the PCell? [3GPP Release 17]\nOptions:\noption 1: When DRX is not configured\noption 2: When BA is not configured\noption 3: When CA is not configured\noption 4: When BA and CA are not configured\noption 5: When CA is configured\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: When CA is configured\n"
+    },
+    {
+        "question": "Which identity is used for identification of the Random Access Response in the downlink? [3GPP Release 17]",
+        "answer": "option 2: RA-RNTI",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which identity is used for identification of the Random Access Response in the downlink? [3GPP Release 17]\nOptions:\noption 1: CI-RNTI\noption 2: RA-RNTI\noption 3: Temporary C-RNTI\noption 4: Random value for contention resolution\noption 5: I-RNTI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: RA-RNTI\n"
+    },
+    {
+        "question": "What are the requirements for relay UE selection for Evolved ProSe Remote UE access? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the requirements for relay UE selection for Evolved ProSe Remote UE access? [3GPP Release 17]\nOptions:\noption 1: Selection based on the subscription owner of the Evolved ProSe UE-to-Network Relay\noption 2: Selection based on the QoS achievable by the Evolved ProSe UE-to-Network Relay\noption 3: Selection based on the power consumption required by the Evolved ProSe UE-to-Network Relay and Evolved ProSe Remote UE\noption 4: Selection based on the access technology used by the Evolved ProSe UE-to-Network Relay\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "In which specification are the training guidelines for MDA ML entities given? [3GPP Release 17]",
+        "answer": "option 1: TS 28.105",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: In which specification are the training guidelines for MDA ML entities given? [3GPP Release 17]\nOptions:\noption 1: TS 28.105\noption 2: TS 28.511\noption 3: TS 28.531\noption 4: TS 28.552\noption 5: TS 32.422\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: TS 28.531\n"
+    },
+    {
+        "question": "What is the maximum value of E-UTRA carrier frequency? [3GPP Release 17]",
+        "answer": "option 1: 262143",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the maximum value of E-UTRA carrier frequency? [3GPP Release 17]\nOptions:\noption 1: 262143\noption 2: 3279165\noption 3: 8\noption 4: 1280\noption 5: 512\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: 3279165\n"
+    },
+    {
+        "question": "What is the numerology based on for PSS, SSS, and PBCH? [3GPP Release 17]",
+        "answer": "option 3: Exponentially scalable sub-carrier spacing",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the numerology based on for PSS, SSS, and PBCH? [3GPP Release 17]\nOptions:\noption 1: Bandwidth-dependent sub-carrier spacing\noption 2: Fixed sub-carrier spacing\noption 3: Exponentially scalable sub-carrier spacing\noption 4: Carrier-dependent sub-carrier spacing\noption 5: Symbol duration\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Fixed sub-carrier spacing\n"
+    },
+    {
+        "question": "What is the purpose of Immediate Divert in IP-PBX? [3GPP Release 17]",
+        "answer": "option 1: To divert a call to a messaging system",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Immediate Divert in IP-PBX? [3GPP Release 17]\nOptions:\noption 1: To divert a call to a messaging system\noption 2: To explicitly transfer an in-progress call to another device\noption 3: To allow a call to be resumed from a different device\noption 4: To provide Connected Name and Number Display\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To explicitly transfer an in-progress call to another device\n"
+    },
+    {
+        "question": "What is the scrambling sequence generator initialized with for a UE-specific search space? [3GPP Release 17]",
+        "answer": "option 4: pdcch-DMRS-ScramblingID",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the scrambling sequence generator initialized with for a UE-specific search space? [3GPP Release 17]\nOptions:\noption 1: C-RNTI\noption 2: SSB\noption 3: PBCH\noption 4: pdcch-DMRS-ScramblingID\noption 5: MCS-C-RNTI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: pdcch-DMRS-ScramblingID\n"
+    },
+    {
+        "question": "What is an acceptable cell? [3GPP Release 17]",
+        "answer": "option 1: A cell that provides limited service for emergency calls and notifications",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is an acceptable cell? [3GPP Release 17]\nOptions:\noption 1: A cell that provides limited service for emergency calls and notifications\noption 2: A cell that provides normal service for public use\noption 3: A cell that is not barred and fulfills cell selection criteria\noption 4: A cell that is reserved for operator use\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: A cell that is not barred and fulfills cell selection criteria\n"
+    },
+    {
+        "question": "What does the gNB-DU respond with to the gNB-CU after receiving the UE CONTEXT SETUP REQUEST message? [3GPP Release 17]",
+        "answer": "option 5: UE CONTEXT SETUP RESPONSE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the gNB-DU respond with to the gNB-CU after receiving the UE CONTEXT SETUP REQUEST message? [3GPP Release 17]\nOptions:\noption 1: UE CONTEXT MODIFICATION REQUEST\noption 2: UE CONTEXT MODIFICATION RESPONSE\noption 3: UE CONTEXT RELEASE COMMAND\noption 4: UE CONTEXT RELEASE COMPLETE\noption 5: UE CONTEXT SETUP RESPONSE\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: UE CONTEXT SETUP RESPONSE\n"
+    },
+    {
+        "question": "What is the purpose of 5G LAN-type service in indirect communication mode? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of 5G LAN-type service in indirect communication mode? [3GPP Release 17]\nOptions:\noption 1: To support authorized UEs using indirect network connection\noption 2: To provide required QoS for Ethernet packets transferred between remote UE and relay UE\noption 3: To ensure service continuity for private communication between remote UE and other member UEs\noption 4: All of the above\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What is the procedure called by which a UE acquires time and frequency synchronization with a cell and detects the Cell ID of that cell? [3GPP Release 17]",
+        "answer": "option 2: Cell search",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the procedure called by which a UE acquires time and frequency synchronization with a cell and detects the Cell ID of that cell? [3GPP Release 17]\nOptions:\noption 1: Power control\noption 2: Cell search\noption 3: Link adaptation\noption 4: Coordinated Multi-Point transmission\noption 5: Wake-up signal\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Cell search\n"
+    },
+    {
+        "question": "What does the LCS Server enable in terms of services? [3GPP Release 17]",
+        "answer": "option 1: Location-based services determined by users and service providers",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the LCS Server enable in terms of services? [3GPP Release 17]\nOptions:\noption 1: Location-based services determined by users and service providers\noption 2: Privacy control for location requests\noption 3: Positioning for target UEs\noption 4: Support for telecommunication services\noption 5: Exchange of information through LCS messages\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Support for telecommunication services\n"
+    },
+    {
+        "question": "Which physical channel carries the DL-SCH and PCH? [3GPP Release 17]",
+        "answer": "option 1: PDSCH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which physical channel carries the DL-SCH and PCH? [3GPP Release 17]\nOptions:\noption 1: PDSCH\noption 2: PMCH\noption 3: PUCCH\noption 4: PBCH\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: PBCH\n"
+    },
+    {
+        "question": "What is the default value for the sl-MaxCID-r16 parameter in SidelinkPreconfigNR-r16? [3GPP Release 17]",
+        "answer": "option 2: 15",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the default value for the sl-MaxCID-r16 parameter in SidelinkPreconfigNR-r16? [3GPP Release 17]\nOptions:\noption 1: 1\noption 2: 15\noption 3: 1000\noption 4: 16383\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: 1\n"
+    },
+    {
+        "question": "What is the granularity of the dl-PRS-ResourceBandwidth parameter? [3GPP Release 17]",
+        "answer": "option 1: 4 PRBs",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the granularity of the dl-PRS-ResourceBandwidth parameter? [3GPP Release 17]\nOptions:\noption 1: 4 PRBs\noption 2: 1 PRB\noption 3: 24 PRBs\noption 4: 272 PRBs\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: 1 PRB\n"
+    },
+    {
+        "question": "What is the scrambling sequence initialized with at the start of each SS/PBCH block? [3GPP Release 17]",
+        "answer": "option 3: Candidate SS/PBCH block index",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the scrambling sequence initialized with at the start of each SS/PBCH block? [3GPP Release 17]\nOptions:\noption 1: SSB\noption 2: PBCH\noption 3: Candidate SS/PBCH block index\noption 4: C-RNTI\noption 5: MCS-C-RNTI\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: PBCH\n"
+    },
+    {
+        "question": "Which conditions must be satisfied for traffic steering from E-UTRAN to WLAN? [3GPP Release 17]",
+        "answer": "option 1: RSRPmeas < ThreshServingOffloadWLAN, LowP and ChannelUtilizationWLAN < ThreshChUtilWLAN, Low",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which conditions must be satisfied for traffic steering from E-UTRAN to WLAN? [3GPP Release 17]\nOptions:\noption 1: RSRPmeas < ThreshServingOffloadWLAN, LowP and ChannelUtilizationWLAN < ThreshChUtilWLAN, Low\noption 2: RSRQmeas < ThreshServingOffloadWLAN, LowQ and BackhaulRateDlWLAN > ThreshBackhRateDLWLAN, High\noption 3: RSRPmeas > ThreshServingOffloadWLAN, HighP and BackhaulRateUlWLAN > ThreshBackhRateULWLAN, High\noption 4: ChannelUtilizationWLAN > ThreshChUtilWLAN, High and WLANRSSI < ThreshWLANRSSI, Low\noption 5: RSRPmeas < ThreshServingOffloadWLAN, LowP and WLANRSSI > ThreshWLANRSSI, High\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: RSRPmeas < ThreshServingOffloadWLAN, LowP and ChannelUtilizationWLAN < ThreshChUtilWLAN, Low\n"
+    },
+    {
+        "question": "What does the Timing Delta MAC CE indicate to an IAB-node? [3GPP Release 17]",
+        "answer": "option 1: Time difference between DU transmission and IAB-MT reception",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the Timing Delta MAC CE indicate to an IAB-node? [3GPP Release 17]\nOptions:\noption 1: Time difference between DU transmission and IAB-MT reception\noption 2: Time difference between IAB-MT reception and transmission\noption 3: Timing advance offset value for a serving cell\noption 4: Timing Case Indication for a serving cell\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Time difference between DU transmission and IAB-MT reception\n"
+    },
+    {
+        "question": "Is supporting periodic location reporting a requirement for Emergency Services? [3GPP Release 17]",
+        "answer": "option 2: No, it is not a requirement",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Is supporting periodic location reporting a requirement for Emergency Services? [3GPP Release 17]\nOptions:\noption 1: Yes, it is a requirement\noption 2: No, it is not a requirement\noption 3: It depends on asset management services\noption 4: It depends on the PLMN operator\noption 5: It depends on the Privacy Exception List\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: No, it is not a requirement\n"
+    },
+    {
+        "question": "What does network diagnostics aim to achieve? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does network diagnostics aim to achieve? [3GPP Release 17]\nOptions:\noption 1: Early detection of faults\noption 2: Evaluation of impact on the service/network\noption 3: Clear explanations of failures\noption 4: Suggestion of corrective actions\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "What is the maximum number of CBR range configurations for sidelink communication congestion control? [3GPP Release 17]",
+        "answer": "option 1: 8",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the maximum number of CBR range configurations for sidelink communication congestion control? [3GPP Release 17]\nOptions:\noption 1: 8\noption 2: 7\noption 3: 16\noption 4: 15\noption 5: 12\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: 16\n"
+    },
+    {
+        "question": "Which satellite access network type has the lowest end-to-end latency requirement in a 5G system? [3GPP Release 17]",
+        "answer": "option 3: LEO based satellite access",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which satellite access network type has the lowest end-to-end latency requirement in a 5G system? [3GPP Release 17]\nOptions:\noption 1: GEO based satellite access\noption 2: MEO based satellite access\noption 3: LEO based satellite access\noption 4: All have the same end-to-end latency requirement\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: LEO based satellite access\n"
+    },
+    {
+        "question": "What is the purpose of service continuity in the Evolved Packet System? [3GPP Release 17]",
+        "answer": "option 4: To provide continuous service during and following changes of access systems",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of service continuity in the Evolved Packet System? [3GPP Release 17]\nOptions:\noption 1: To optimize routing for user plane traffic\noption 2: To support mobility within and across access systems\noption 3: To minimize packet loss during inter- and/or intra-access technology changes\noption 4: To provide continuous service during and following changes of access systems\noption 5: To support simultaneous usage of multiple accesses\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: To provide continuous service during and following changes of access systems\n"
+    },
+    {
+        "question": "What can the user change in the privacy exception list? [3GPP Release 17]",
+        "answer": "option 5: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What can the user change in the privacy exception list? [3GPP Release 17]\nOptions:\noption 1: The LCS Client and/or group of LCS Clients list\noption 2: The codeword\noption 3: The requestor\noption 4: The service types\noption 5: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: All of the above\n"
+    },
+    {
+        "question": "What does a '1' value for a bit in the TRS availability indication field indicate? [3GPP Release 17]",
+        "answer": "option 5: Presence of associated TRS resource sets",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does a '1' value for a bit in the TRS availability indication field indicate? [3GPP Release 17]\nOptions:\noption 1: Change to a current assumption for the availability of TRS resource sets\noption 2: No change to the availability of TRS resource sets\noption 3: Unavailability of associated TRS resource sets\noption 4: Validity of TRS resource sets\noption 5: Presence of associated TRS resource sets\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Presence of associated TRS resource sets\n"
+    },
+    {
+        "question": "What is the purpose of spreading in PUCCH formats 3 and 4? [3GPP Release 17]",
+        "answer": "option 2: To enhance the orthogonality of the transmitted symbols.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of spreading in PUCCH formats 3 and 4? [3GPP Release 17]\nOptions:\noption 1: To increase the bandwidth of the PUCCH transmission.\noption 2: To enhance the orthogonality of the transmitted symbols.\noption 3: To improve the immunity of the transmitted signal to multipath fading.\noption 4: To reduce the inter-UE interference in the PUCCH transmission.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To improve the immunity of the transmitted signal to multipath fading.\n"
+    },
+    {
+        "question": "What is the purpose of Indirect 3GPP Communication? [3GPP Release 17]",
+        "answer": "option 1: To connect an Evolved ProSe Remote UE to the 3GPP network via an Evolved ProSe UE-to-Network Relay",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of Indirect 3GPP Communication? [3GPP Release 17]\nOptions:\noption 1: To connect an Evolved ProSe Remote UE to the 3GPP network via an Evolved ProSe UE-to-Network Relay\noption 2: To enable GSM and UMTS communication\noption 3: To support small data services for an Evolved ProSe Remote UE\noption 4: To provide resource efficient management of shared radio spectrum\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To connect an Evolved ProSe Remote UE to the 3GPP network via an Evolved ProSe UE-to-Network Relay\n"
+    },
+    {
+        "question": "Which message contains the low layer configuration for the UE? [3GPP Release 17]",
+        "answer": "option 5: INITIAL UL RRC MESSAGE TRANSFER",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which message contains the low layer configuration for the UE? [3GPP Release 17]\nOptions:\noption 1: INITIAL UE MESSAGE\noption 2: DL RRC MESSAGE TRANSFER\noption 3: RRC CONNECTION SETUP COMPLETE\noption 4: UL RRC MESSAGE TRANSFER\noption 5: INITIAL UL RRC MESSAGE TRANSFER\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: INITIAL UE MESSAGE\n"
+    },
+    {
+        "question": "What are the two main groups of logical channels in the MAC sublayer? [3GPP Release 17]",
+        "answer": "option 2: Control channels and Traffic channels",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What are the two main groups of logical channels in the MAC sublayer? [3GPP Release 17]\nOptions:\noption 1: Broadcast channels and Dedicated channels\noption 2: Control channels and Traffic channels\noption 3: Physical channels and Transport channels\noption 4: Scheduling channels and Error correction channels\noption 5: Primary channels and Secondary channels\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: Control channels and Traffic channels\n"
+    },
+    {
+        "question": "What is VarMeasIdleConfig used for? [3GPP Release 17]",
+        "answer": "option 1: To configure the measurements to be performed by the UE while in RRC_IDLE or RRC_INACTIVE",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is VarMeasIdleConfig used for? [3GPP Release 17]\nOptions:\noption 1: To configure the measurements to be performed by the UE while in RRC_IDLE or RRC_INACTIVE\noption 2: To configure the reporting of measurements performed by the UE while in RRC_IDLE or RRC_INACTIVE\noption 3: To configure the logging of measurements performed by the UE while in RRC_IDLE or RRC_INACTIVE\noption 4: To configure the mobility behavior of the UE while in RRC_IDLE or RRC_INACTIVE\noption 5: To configure the random-access procedure of the UE while in RRC_IDLE or RRC_INACTIVE\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: To configure the measurements to be performed by the UE while in RRCIdle or RRC_INACTIVE\n"
+    },
+    {
+        "question": "What is the role of a Relay Node (RN) in E-UTRAN? [3GPP Release 17]",
+        "answer": "option 1: To terminate the radio protocols of the E-UTRA radio interface",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the role of a Relay Node (RN) in E-UTRAN? [3GPP Release 17]\nOptions:\noption 1: To terminate the radio protocols of the E-UTRA radio interface\noption 2: To manage the EPS bearers and session for the RN\noption 3: To handle the S1 and X2 interfaces between the DeNB and the MME\noption 4: To support PWS towards UEs\noption 5: To perform the RRC connection establishment for the RN\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: To handle the S1 and X2 interfaces between the DeNB and the MME\n"
+    },
+    {
+        "question": "Which interface is used between the BSC and BTS to support the services offered to the GSM users and subscribers? [3GPP Release 17]",
+        "answer": "option 3: Abis-interface",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which interface is used between the BSC and BTS to support the services offered to the GSM users and subscribers? [3GPP Release 17]\nOptions:\noption 1: S1-MME-interface\noption 2: S1-U-interface\noption 3: Abis-interface\noption 4: Iub-interface\noption 5: Iur-interface\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Abis-interface\n"
+    },
+    {
+        "question": "What is the purpose of the 'Connect-streaming' communication paradigm in management service interactions? [3GPP Release 17]",
+        "answer": "option 2: To establish a connection for management data streaming",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the purpose of the 'Connect-streaming' communication paradigm in management service interactions? [3GPP Release 17]\nOptions:\noption 1: To authenticate the management service consumer\noption 2: To establish a connection for management data streaming\noption 3: To enable the management service producer to invoke operations\noption 4: To request a subscription to notifications and receive network events\noption 5: To provide response based on a request from the management service consumer\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To establish a connection for management data streaming\n"
+    },
+    {
+        "question": "Which interface is used to transfer OAM traffic between the RN and the OAM system? [3GPP Release 17]",
+        "answer": "option 3: Un interface",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which interface is used to transfer OAM traffic between the RN and the OAM system? [3GPP Release 17]\nOptions:\noption 1: S1 interface\noption 2: X2 interface\noption 3: Un interface\noption 4: MME interface\noption 5: OAM interface\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: OAM interface\n"
+    },
+    {
+        "question": "Which state is the UE expected to receive the DL PRS for RTT-based propagation delay compensation in? [3GPP Release 17]",
+        "answer": "option 2: RRC_CONNECTED state",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Which state is the UE expected to receive the DL PRS for RTT-based propagation delay compensation in? [3GPP Release 17]\nOptions:\noption 1: RRC_IDLE state\noption 2: RRC_CONNECTED state\noption 3: RRC_INACTIVE state\noption 4: RRC_RELEASED state\noption 5: None of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: RRC_CONNECTED state\n"
+    },
+    {
+        "question": "Where can the UE receive PLMN identity and CN type information in a given cell? [3GPP Release 17]",
+        "answer": "option 4: Broadcast channel",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: Where can the UE receive PLMN identity and CN type information in a given cell? [3GPP Release 17]\nOptions:\noption 1: Data channel\noption 2: Access channel\noption 3: Control channel\noption 4: Broadcast channel\noption 5: Paging channel\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: paging channel\n"
+    },
+    {
+        "question": "What is the cyclic-prefix length for normal cyclic prefix in SC-FDMA? [3GPP Release 17]",
+        "answer": "option 2: 144Ts",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the cyclic-prefix length for normal cyclic prefix in SC-FDMA? [3GPP Release 17]\nOptions:\noption 1: 160Ts\noption 2: 144Ts\noption 3: 512Ts\noption 4: 256Ts\noption 5: 768Ts\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: 144Ts\n"
+    },
+    {
+        "question": "What physical channel is used for sidelink transmitted data itself? [3GPP Release 17]",
+        "answer": "option 4: PSSCH",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What physical channel is used for sidelink transmitted data itself? [3GPP Release 17]\nOptions:\noption 1: PSCCH\noption 2: PSBCH\noption 3: PSFCH\noption 4: PSSCH\noption 5: Synchronization signal\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: PSFCH\n"
+    },
+    {
+        "question": "What is the reference point between the GGSN and a packet data network? [3GPP Release 17]",
+        "answer": "option 4: Gi reference point",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the reference point between the GGSN and a packet data network? [3GPP Release 17]\nOptions:\noption 1: Mm Reference Point\noption 2: GMLC - external LCS Client\noption 3: Le reference point\noption 4: Gi reference point\noption 5: Wi reference point\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Gi reference point\n"
+    },
+    {
+        "question": "How are the metrics related to the provided thresholds evaluated for WLAN BSS? [3GPP Release 17]",
+        "answer": "option 2: The UE excludes the WLAN BSS if not all metrics related to the provided thresholds can be acquired.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: How are the metrics related to the provided thresholds evaluated for WLAN BSS? [3GPP Release 17]\nOptions:\noption 1: The UE evaluates all metrics related to the provided thresholds.\noption 2: The UE excludes the WLAN BSS if not all metrics related to the provided thresholds can be acquired.\noption 3: The WLAN BSS is excluded if the UE cannot evaluate the provided thresholds.\noption 4: The UE considers the metrics with unprovided thresholds as zero.\noption 5: The UE considers the metrics with unprovided thresholds as infinite.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: The UE evaluates all metrics related to the provided thresholds.\n"
+    },
+    {
+        "question": "What defines the comb size of a DL PRS resource? [3GPP Release 17]",
+        "answer": "option 5: nr-DL-PRS-CombSizeN-AndReOffset",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What defines the comb size of a DL PRS resource? [3GPP Release 17]\nOptions:\noption 1: dl-PRS-ResourceSymbolOffset\noption 2: dl-PRS-StartPRB\noption 3: numSymbols\noption 4: dl-PRS-ResourceSlotOffset\noption 5: nr-DL-PRS-CombSizeN-AndReOffset\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: nr-DL-PRS-CombSizeN-AndReOffset\n"
+    },
+    {
+        "question": "What does a '0' value for a bit of the bitmap, provided by dormancyGroupOutsideActiveTime, indicate? [3GPP Release 17]",
+        "answer": "option 4: An active DL BWP for the UE.",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does a '0' value for a bit of the bitmap, provided by dormancyGroupOutsideActiveTime, indicate? [3GPP Release 17]\nOptions:\noption 1: A firstOutsideActiveTimeBWP-Id for the UE.\noption 2: A dormant DL BWP for the UE.\noption 3: A current active DL BWP for the UE.\noption 4: An active DL BWP for the UE.\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: A dormant DL BWP for the UE.\n"
+    },
+    {
+        "question": "What does the 5G system need to support for the tactile and multi-modal communication service? [3GPP Release 17]",
+        "answer": "option 2: Support for synchronization between different media components",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the 5G system need to support for the tactile and multi-modal communication service? [3GPP Release 17]\nOptions:\noption 1: Ability to provide customized QoS handling for each communication mode\noption 2: Support for synchronization between different media components\noption 3: Ability to handle haptic data for touch-based communication\noption 4: Provision of real-time sensor data for environment awareness\noption 5: Capability to handle immersive VR applications with low latency\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Ability to provide customized QoS handling for each communication mode\n"
+    },
+    {
+        "question": "What is the motion-to-photon latency range required to support VR environments with low motion-to-photon capabilities? [3GPP Release 17]",
+        "answer": "option 3: 7 ms to 15 ms",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the motion-to-photon latency range required to support VR environments with low motion-to-photon capabilities? [3GPP Release 17]\nOptions:\noption 1: 1 ms to 5 ms\noption 2: 5 ms to 10 ms\noption 3: 7 ms to 15 ms\noption 4: 15 ms to 20 ms\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: 1 ms to 5 ms\n"
+    },
+    {
+        "question": "What is the function of the Radio Bearer Service? [3GPP Release 17]",
+        "answer": "option 2: To handle the radio interface transport",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the function of the Radio Bearer Service? [3GPP Release 17]\nOptions:\noption 1: To provide transport between RAN and CN\noption 2: To handle the radio interface transport\noption 3: To provide QoS in the backbone network\noption 4: To connect the UMTS CN Edge Node with the external network\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: To handle the radio interface transport\n"
+    },
+    {
+        "question": "What does the UE ignore regarding cell access restrictions for cell reselection when camping on E-UTRA connected to 5GC? [3GPP Release 17]",
+        "answer": "option 2: Access Category and Identity restrictions",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What does the UE ignore regarding cell access restrictions for cell reselection when camping on E-UTRA connected to 5GC? [3GPP Release 17]\nOptions:\noption 1: Access Class or ACDC category restrictions\noption 2: Access Category and Identity restrictions\noption 3: Emergency call restrictions\noption 4: Cell status restrictions\noption 5: Access restrictions for NAS initiated access attempts\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 3: Emergency call restrictions\n"
+    },
+    {
+        "question": "What is the MDA capability for paging optimization analysis used for? [3GPP Release 17]",
+        "answer": "option 5: Avoiding wastage of network resources",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the MDA capability for paging optimization analysis used for? [3GPP Release 17]\nOptions:\noption 1: Optimizing network resource usage\noption 2: Predicting potential network failures\noption 3: Analyzing service experience of end users\noption 4: Analyzing handover performance\noption 5: Avoiding wastage of network resources\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 5: Avoiding wastage of network resources\n"
+    },
+    {
+        "question": "When does the UE apply the MCCH information acquisition procedure? [3GPP Release 17]",
+        "answer": "option 4: All of the above",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: When does the UE apply the MCCH information acquisition procedure? [3GPP Release 17]\nOptions:\noption 1: Upon receiving SIB20 of an SCell\noption 2: Upon receiving a change notification about MCCH information\noption 3: Upon entering the cell providing SIB1\noption 4: All of the above\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: All of the above\n"
+    },
+    {
+        "question": "What is a multi-modal communication service? [3GPP Release 17]",
+        "answer": "option 3: Service that allows input and output from multiple sources and destinations",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is a multi-modal communication service? [3GPP Release 17]\nOptions:\noption 1: Service that supports communication between different MNOs\noption 2: Service that enables communication between different devices and networks\noption 3: Service that allows input and output from multiple sources and destinations\noption 4: Service that provides communication through multiple communication modes\noption 5: Service that supports communication with multiple users simultaneously\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 4: Service that provides communication through multiple communication modes\n"
+    },
+    {
+        "question": "What is one of the challenges of energy saving schemes in the radio access network (RAN)? [3GPP Release 17]",
+        "answer": "option 1: Inaccurate cell load prediction",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is one of the challenges of energy saving schemes in the radio access network (RAN)? [3GPP Release 17]\nOptions:\noption 1: Inaccurate cell load prediction\noption 2: Lack of energy-saving related parameters\noption 3: Difficulty in identifying energy-saving actions\noption 4: Lack of feedback on energy efficiency\noption 5: Conflicting targets between system performance and energy efficiency\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 1: Inaccurate cell load prediction\n"
+    },
+    {
+        "question": "What is the range of frequencies for which the O2I car penetration loss models are applicable? [3GPP Release 17]",
+        "answer": "option 2: 0.6-60 GHz",
+        "response": "system\n\nCutting Knowledge Date: December 2023\nToday Date: 26 July 2024\n\nuser\n\nQuestion: What is the range of frequencies for which the O2I car penetration loss models are applicable? [3GPP Release 17]\nOptions:\noption 1: 0.1-10 GHz\noption 2: 0.6-60 GHz\noption 3: 100-1000 GHz\noption 4: 10-100 GHz\nThink step by step and choose the correct option.\nYou must respond in the format 'correct option: <X>', where <X> is the correct letter for the option.assistant\n\nAnswer: option 2: 0.6-60 GHz\n"
+    }
+]

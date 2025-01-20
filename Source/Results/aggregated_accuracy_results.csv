@@ -1,0 +1,7 @@
+Model,Accuracy (%),'None' Responses,Incorrect Questions Count
+RAG GPT-4,74.0,2,156
+RAG Llama 3.2 Lora,76.33333333333333,0,142
+RAG Llama 3.2,67.83333333333333,16,193
+No-RAG GPT-4,64.33333333333333,1,214
+No-RAG Llama 3.2 Lora,61.0,0,234
+No-RAG Llama 3.2,54.666666666666664,1,272
