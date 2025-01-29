@@ -1,7 +1,7 @@
 Model,Accuracy (%),'None' Responses,Incorrect Questions Count
 RAG GPT-4,71.0,0,58
-RAG Llama 3.2 Lora,81.5,0,37
+RAG Llama-4Bit-Tuned,81.5,0,37
 RAG Llama 3.2,69.0,7,62
 No-RAG GPT-4,55.50000000000001,1,89
-No-RAG Llama 3.2 Lora,60.0,0,80
+No-RAG Llama-4Bit-Tuned,60.0,0,80
 No-RAG Llama 3.2,52.0,1,96
