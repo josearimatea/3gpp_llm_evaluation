@@ -6,9 +6,9 @@ In this specific case, I leverage knowledge from the telecommunications field wi
 
 The results were encouraging, as shown in the figure below:
 
-![Comparison between models evaluating accuracy for multiple-choice questions](Figures/image.png)
+![Comparison between models evaluating average accuracy for multiple-choice questions](Figures/Large_all_releases_600.png)
 
-This Figure shows the comparison between models evaluating accuracy for multiple-choice questions
+This Figure shows the comparison between models evaluating the average accuracy for multiple-choice questions using 600 questions.
 
 For more details about the project, read my report in [English_report](Project_report(english_version).pdf) explaining the analysis in greater depth.
 
