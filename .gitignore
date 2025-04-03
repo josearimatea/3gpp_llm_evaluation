@@ -4,6 +4,7 @@
 Saidas_codigos.odt
 Entregas/
 Models/*
+Source/outputs
 checkpoint-300_model_4000_questions-20241102T171133Z-001.zip
 *.pkl
 Files/faiss_index.bin
